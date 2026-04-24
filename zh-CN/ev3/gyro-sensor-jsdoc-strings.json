@@ -1,0 +1,1 @@
+{"sensors.GyroSensor.angle":"获取陀螺仪当前的角度。","sensors.GyroSensor.drift":"获取计算出的漂移率","sensors.GyroSensor.rate":"获取陀螺仪当前的旋转速率。","sensors.GyroSensor.reset":"对陀螺仪进行强制性校准。当传感器完全静止时必须调用。"}

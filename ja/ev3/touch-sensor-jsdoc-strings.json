@@ -1,0 +1,1 @@
+{"sensors.TouchSensor.isPressed":"タッチセンサーがタッチされたかどうかを確認します。","sensors.TouchSensor.onEvent":"タッチセンサーがタッチされた際に何かを実行します…","sensors.TouchSensor.onEvent|param|body":"イベントが発生した際に実行するプログラム","sensors.TouchSensor.pauseUntil":"タッチ センサーがタッチされるまで待機","sensors.TouchSensor.wasPressed":"最後に確認したときからタッチセンサーがタッチされたかどうかを確認します。"}
