@@ -1,0 +1,38 @@
+name: Update Translations
+
+on:
+  schedule:
+    - cron: '23 5 1 * *'
+  workflow_dispatch:
+
+jobs:
+  update-translations:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Make script executable
+        run: chmod +x ./download_translations.sh
+
+      - name: Run translation script
+        run: ./download_translations.sh
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "pxt-ev3-community@users.noreply.github.com"
+          
+          git add .
+          
+          # Check if there are changes before attempting to commit
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "automatic update of translations"
+            git push
+          fi
