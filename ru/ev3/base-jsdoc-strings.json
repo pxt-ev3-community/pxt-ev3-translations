@@ -277,7 +277,7 @@
   "randint|param|min": "нижняя включенная граница, например: 0",
   "setImmediate": "Назначает функцию как можно скорее.",
   "setInterval": "Вызывает функцию с фиксированной задержкой времени между каждым вызовом этой функции.",
-  "setInterval|param|func": "@param задержка&nbsp;",
+  "setInterval|param|func": "@param задержка ‍",
   "setTimeout": "Вызывает функцию после указанной задержки.",
-  "setTimeout|param|func": "@param задержка&nbsp;"
+  "setTimeout|param|func": "@param задержка ‍"
 }

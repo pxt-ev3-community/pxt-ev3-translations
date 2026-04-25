@@ -271,7 +271,7 @@
   "randint|param|min": "die untere Grenze, einschließlich dieser Zahl, z. B.: 0",
   "setImmediate": "Ruft so schnell wie möglich eine Funktion auf.",
   "setInterval": "Ruft eine Funktion mit einer festen Zeitverzögerung zwischen jedem Aufruf zu dieser Funktion auf.",
-  "setInterval|param|func": "@param Verzögerung&nbsp;",
+  "setInterval|param|func": "@param Verzögerung ‍",
   "setTimeout": "Ruft eine Funktion nach der angegebenen Verzögerung auf.",
-  "setTimeout|param|func": "@param Verzögerung&nbsp;"
+  "setTimeout|param|func": "@param Verzögerung ‍"
 }
