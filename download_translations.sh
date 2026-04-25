@@ -36,7 +36,10 @@ do
     mkdir -p $lang/ev3
     for file in $FILES
     do
-        wget "https://makecode.com/api/translations?lang=$lang&filename=$file" -O $lang/$file
+        wget "https://makecode.com/api/translations?lang=$lang&filename=$file" -O tmp.json
+
+        # Mangle leading/trailing spaces because pxt seems to strip them otherwise.
+        jq 'walk(if type == "string" then sub("^ "; "&nbsp;") | sub(" $"; "&nbsp;") else . end)' tmp.json > $lang/$file
         sleep 1
     done
 done
