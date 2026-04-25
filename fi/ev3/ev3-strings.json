@@ -1,1 +1,14 @@
-{"brick.exitProgram|block":"lopeta ohjelma","brick.showMood|block":"näytä silmät %mood=mood_image_picker","brick|block":"tiili","console.sendToScreen|block":"näytä konsoli näytöllä","console|block":"konsoli","moods|block":"silmät","{id:category}Brick":"Tiili","{id:category}Console":"Konsoli","{id:category}Images":"Kuvat","{id:category}Moods":"Silmät","{id:group}Program":"Ohjelma","{id:group}Screen":"Näyttö"}
+{
+  "brick.exitProgram|block": "lopeta ohjelma",
+  "brick.showMood|block": "näytä silmät %mood=mood_image_picker",
+  "brick|block": "tiili",
+  "console.sendToScreen|block": "näytä konsoli näytöllä",
+  "console|block": "konsoli",
+  "moods|block": "silmät",
+  "{id:category}Brick": "Tiili",
+  "{id:category}Console": "Konsoli",
+  "{id:category}Images": "Kuvat",
+  "{id:category}Moods": "Silmät",
+  "{id:group}Program": "Ohjelma",
+  "{id:group}Screen": "Näyttö"
+}

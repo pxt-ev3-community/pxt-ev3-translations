@@ -1,1 +1,4 @@
-{"Multiple motors are connected to Port":"Useita erilaisia moottoreita on yhdistetty porttiin","Multiple sensors are connected to Port":"Useita erilaisia antureita on yhdistetty porttiin"}
+{
+  "Multiple motors are connected to Port": "Useita erilaisia moottoreita on yhdistetty porttiin",
+  "Multiple sensors are connected to Port": "Useita erilaisia antureita on yhdistetty porttiin"
+}

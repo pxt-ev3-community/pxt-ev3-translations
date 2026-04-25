@@ -1,1 +1,12 @@
-{"sensors.TouchSensor.isPressed|block":"**touche** %this|est pressé","sensors.TouchSensor.onEvent|block":"lorsque **touche** %this|%event","sensors.TouchSensor.pauseUntil|block":"pause jusque **touche** %this|%event","sensors.TouchSensor.wasPressed|block":"**touche** %this|est pressé","sensors.touch1|block":"1","sensors.touch2|block":"2","sensors.touch3|block":"3","sensors.touch4|block":"4","{id:category}Sensors":"Capteurs","{id:group}Touch Sensor":"Capteur tactile"}
+{
+  "sensors.TouchSensor.isPressed|block": "**touche** %this|est pressé",
+  "sensors.TouchSensor.onEvent|block": "lorsque **touche** %this|%event",
+  "sensors.TouchSensor.pauseUntil|block": "pause jusque **touche** %this|%event",
+  "sensors.TouchSensor.wasPressed|block": "**touche** %this|est pressé",
+  "sensors.touch1|block": "1",
+  "sensors.touch2|block": "2",
+  "sensors.touch3|block": "3",
+  "sensors.touch4|block": "4",
+  "{id:category}Sensors": "Capteurs",
+  "{id:group}Touch Sensor": "Capteur tactile"
+}

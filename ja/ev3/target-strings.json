@@ -1,1 +1,24 @@
-{"Blocks":"ブロック","Bluetooth":"Bluetooth","Brick Tutorials":"インテリジェントブロックのチュートリアル","Check your firmware version here and update if needed":"ファームウェアのバージョンをチェックして、必要があれば最新版にしましょう。","Coding":"プログラミング","Color Sensor Tutorials":"カラーセンサーのチュートリアル","Design Engineering":"デザイン エンジニアリング","First time here?":"この画面は初めて？","Getting Started":"はじめましょう","Gyro Tutorials":"ジャイロセンサーのチュートリアル","Help":"ヘルプ","Infrared Sensor Tutorials":"赤外線センサーのチュートリアル","JavaScript":"JavaScript","LEGO® MINDSTORMS® Education EV3":"教育版レゴ® マインドストーム® EV3","Maker":"メーカーアクティビティ","Motor Tutorials":"モーターのチュートリアル","Reference":"リファレンス","Support":"サポート","Touch Sensor Tutorials":"タッチセンサーのチュートリアル","Troubleshoot":"トラブルシューティング","Tutorial Videos":"チュートリアルの動画","Ultrasonic Sensor Tutorials":"超音波センサーのチュートリアル"}
+{
+  "Blocks": "ブロック",
+  "Bluetooth": "Bluetooth",
+  "Brick Tutorials": "インテリジェントブロックのチュートリアル",
+  "Check your firmware version here and update if needed": "ファームウェアのバージョンをチェックして、必要があれば最新版にしましょう。",
+  "Coding": "プログラミング",
+  "Color Sensor Tutorials": "カラーセンサーのチュートリアル",
+  "Design Engineering": "デザイン エンジニアリング",
+  "First time here?": "この画面は初めて？",
+  "Getting Started": "はじめましょう",
+  "Gyro Tutorials": "ジャイロセンサーのチュートリアル",
+  "Help": "ヘルプ",
+  "Infrared Sensor Tutorials": "赤外線センサーのチュートリアル",
+  "JavaScript": "JavaScript",
+  "LEGO® MINDSTORMS® Education EV3": "教育版レゴ® マインドストーム® EV3",
+  "Maker": "メーカーアクティビティ",
+  "Motor Tutorials": "モーターのチュートリアル",
+  "Reference": "リファレンス",
+  "Support": "サポート",
+  "Touch Sensor Tutorials": "タッチセンサーのチュートリアル",
+  "Troubleshoot": "トラブルシューティング",
+  "Tutorial Videos": "チュートリアルの動画",
+  "Ultrasonic Sensor Tutorials": "超音波センサーのチュートリアル"
+}

@@ -1,1 +1,25 @@
-{"sensors.ColorSensor":"カラー センサーは、センサーの小さなウィンドウに入るライトの色や強さを検出できるデジタル センサーです。","sensors.ColorSensor.ambientLight":"周辺光を取得","sensors.ColorSensor.calibrateLight":"光条件を測定し、しきい値を10% / 90%に調整します。","sensors.ColorSensor.color":"カラーセンサーから現在の色を取得します。","sensors.ColorSensor.colorMode":"現在の色モードを取得","sensors.ColorSensor.isColorDetected|param|color":"検出する色","sensors.ColorSensor.onColorDetected":"特定のカラーが検出された際に実行するプログラムを登録します。","sensors.ColorSensor.onColorDetected|param|color":"検出する色、例：ColorSensorColor.Blue","sensors.ColorSensor.onColorDetected|param|handler":"検出された際に実行するプログラム","sensors.ColorSensor.onLightDetected":"周辺光が変化した際に実行するプログラムを登録します。","sensors.ColorSensor.onLightDetected|param|condition":"光条件","sensors.ColorSensor.onLightDetected|param|handler":"検出された際に実行するプログラム","sensors.ColorSensor.pauseUntilColorDetected":"特定の色が検出されるまで待機","sensors.ColorSensor.pauseUntilColorDetected|param|color":"検出する色","sensors.ColorSensor.pauseUntilLightDetected":"特定の色が検出されるまで待機","sensors.ColorSensor.reflectedLight":"反射光の値を取得","sensors.ColorSensor.setThreshold":"しきい値を設定","sensors.ColorSensor.setThreshold|param|condition":"暗いまたは明るい光条件","sensors.ColorSensor.setThreshold|param|value":"しきい値、例：10","sensors.ColorSensor.threshold":"しきい値を取得","sensors.ColorSensor.threshold|param|condition":"光条件","sensors.color":"センサーが検出できる色を返します","sensors.color|param|color":"センサーが検出した色、例：ColorSensorColor.Red"}
+{
+  "sensors.ColorSensor": "カラー センサーは、センサーの小さなウィンドウに入るライトの色や強さを検出できるデジタル センサーです。",
+  "sensors.ColorSensor.ambientLight": "周辺光を取得",
+  "sensors.ColorSensor.calibrateLight": "光条件を測定し、しきい値を10% / 90%に調整します。",
+  "sensors.ColorSensor.color": "カラーセンサーから現在の色を取得します。",
+  "sensors.ColorSensor.colorMode": "現在の色モードを取得",
+  "sensors.ColorSensor.isColorDetected|param|color": "検出する色",
+  "sensors.ColorSensor.onColorDetected": "特定のカラーが検出された際に実行するプログラムを登録します。",
+  "sensors.ColorSensor.onColorDetected|param|color": "検出する色、例：ColorSensorColor.Blue",
+  "sensors.ColorSensor.onColorDetected|param|handler": "検出された際に実行するプログラム",
+  "sensors.ColorSensor.onLightDetected": "周辺光が変化した際に実行するプログラムを登録します。",
+  "sensors.ColorSensor.onLightDetected|param|condition": "光条件",
+  "sensors.ColorSensor.onLightDetected|param|handler": "検出された際に実行するプログラム",
+  "sensors.ColorSensor.pauseUntilColorDetected": "特定の色が検出されるまで待機",
+  "sensors.ColorSensor.pauseUntilColorDetected|param|color": "検出する色",
+  "sensors.ColorSensor.pauseUntilLightDetected": "特定の色が検出されるまで待機",
+  "sensors.ColorSensor.reflectedLight": "反射光の値を取得",
+  "sensors.ColorSensor.setThreshold": "しきい値を設定",
+  "sensors.ColorSensor.setThreshold|param|condition": "暗いまたは明るい光条件",
+  "sensors.ColorSensor.setThreshold|param|value": "しきい値、例：10",
+  "sensors.ColorSensor.threshold": "しきい値を取得",
+  "sensors.ColorSensor.threshold|param|condition": "光条件",
+  "sensors.color": "センサーが検出できる色を返します",
+  "sensors.color|param|color": "センサーが検出した色、例：ColorSensorColor.Red"
+}

@@ -1,1 +1,24 @@
-{"sensors.InfraredSensor.onEvent":"物体が近づいていた際に実行するプログラムを登録します。","sensors.InfraredSensor.onEvent|param|handler":"検出された際に実行するプログラム","sensors.InfraredSensor.pauseUntil":"赤外線センサーが何かを検出するまで待機","sensors.InfraredSensor.proximity":"赤外線センサーが検出した物体との接近度を「0」（近い）から「100」（遠い）の間の値で取得","sensors.InfraredSensor.proximityThreshold":"しきい値を取得","sensors.InfraredSensor.proximityThreshold|param|condition":"接近度条件","sensors.InfraredSensor.setPromixityThreshold":"しきい値を設定","sensors.InfraredSensor.setPromixityThreshold|param|condition":"暗いまたは明るい光条件","sensors.InfraredSensor.setPromixityThreshold|param|value":"しきい値","sensors.InfraredSensor.setRemoteChannel":"リスニングする遠隔チャンネルを設定","sensors.InfraredSensor.setRemoteChannel|param|channel":"リスニングするチャンネル","sensors.RemoteInfraredBeaconButton.isPressed":"遠隔ボタンが現在押されているかどうかを確認します。","sensors.RemoteInfraredBeaconButton.onEvent":"遠隔ボタンが押された、ぶつかった、離れた際に何かを実行します","sensors.RemoteInfraredBeaconButton.onEvent|param|body":"イベントが発生した際に実行するプログラム","sensors.RemoteInfraredBeaconButton.pauseUntil":"遠隔ボタンのイベントが発生するまで一時停止","sensors.RemoteInfraredBeaconButton.pauseUntil|param|ev":"発生まで待機するイベント","sensors.RemoteInfraredBeaconButton.wasPressed":"最後に確認した時から遠隔ボタンが再び押されたかどうかを確認します。","sensors.remoteButtonBottomLeft":"遠隔左下ボタン","sensors.remoteButtonBottomRight":"遠隔右下ボタン","sensors.remoteButtonCenter":"遠隔ビーコン（中央）ボタン","sensors.remoteButtonTopLeft":"遠隔左上ボタン","sensors.remoteButtonTopRight":"遠隔右上ボタン"}
+{
+  "sensors.InfraredSensor.onEvent": "物体が近づいていた際に実行するプログラムを登録します。",
+  "sensors.InfraredSensor.onEvent|param|handler": "検出された際に実行するプログラム",
+  "sensors.InfraredSensor.pauseUntil": "赤外線センサーが何かを検出するまで待機",
+  "sensors.InfraredSensor.proximity": "赤外線センサーが検出した物体との接近度を「0」（近い）から「100」（遠い）の間の値で取得",
+  "sensors.InfraredSensor.proximityThreshold": "しきい値を取得",
+  "sensors.InfraredSensor.proximityThreshold|param|condition": "接近度条件",
+  "sensors.InfraredSensor.setPromixityThreshold": "しきい値を設定",
+  "sensors.InfraredSensor.setPromixityThreshold|param|condition": "暗いまたは明るい光条件",
+  "sensors.InfraredSensor.setPromixityThreshold|param|value": "しきい値",
+  "sensors.InfraredSensor.setRemoteChannel": "リスニングする遠隔チャンネルを設定",
+  "sensors.InfraredSensor.setRemoteChannel|param|channel": "リスニングするチャンネル",
+  "sensors.RemoteInfraredBeaconButton.isPressed": "遠隔ボタンが現在押されているかどうかを確認します。",
+  "sensors.RemoteInfraredBeaconButton.onEvent": "遠隔ボタンが押された、ぶつかった、離れた際に何かを実行します",
+  "sensors.RemoteInfraredBeaconButton.onEvent|param|body": "イベントが発生した際に実行するプログラム",
+  "sensors.RemoteInfraredBeaconButton.pauseUntil": "遠隔ボタンのイベントが発生するまで一時停止",
+  "sensors.RemoteInfraredBeaconButton.pauseUntil|param|ev": "発生まで待機するイベント",
+  "sensors.RemoteInfraredBeaconButton.wasPressed": "最後に確認した時から遠隔ボタンが再び押されたかどうかを確認します。",
+  "sensors.remoteButtonBottomLeft": "遠隔左下ボタン",
+  "sensors.remoteButtonBottomRight": "遠隔右下ボタン",
+  "sensors.remoteButtonCenter": "遠隔ビーコン（中央）ボタン",
+  "sensors.remoteButtonTopLeft": "遠隔左上ボタン",
+  "sensors.remoteButtonTopRight": "遠隔右上ボタン"
+}

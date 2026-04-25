@@ -1,1 +1,11 @@
-{"sensors.UltraSonicSensor.distance":"Erfasst den Abstand zum Schallmessgerät in Zentimetern.","sensors.UltraSonicSensor.onEvent":"Registriert das Programm, das ausgeführt werden soll, wenn ein Objekt erkannt wird oder sich in der Nähe befindet.","sensors.UltraSonicSensor.onEvent|param|handler":"das Programm, das daraufhin ausgeführt werden soll","sensors.UltraSonicSensor.pauseUntil":"Wartet, bis das Ereignis eintritt.","sensors.UltraSonicSensor.setThreshold":"Legt einen Schwellenwert fest.","sensors.UltraSonicSensor.setThreshold|param|condition":"Bedingung „in der Nähe“ oder „erkannt“","sensors.UltraSonicSensor.setThreshold|param|value":"der Schwellenwert","sensors.UltraSonicSensor.threshold":"Erfasst den Schwellenwert.","sensors.UltraSonicSensor.threshold|param|condition":"Bedingung „Nähe“"}
+{
+  "sensors.UltraSonicSensor.distance": "Erfasst den Abstand zum Schallmessgerät in Zentimetern.",
+  "sensors.UltraSonicSensor.onEvent": "Registriert das Programm, das ausgeführt werden soll, wenn ein Objekt erkannt wird oder sich in der Nähe befindet.",
+  "sensors.UltraSonicSensor.onEvent|param|handler": "das Programm, das daraufhin ausgeführt werden soll",
+  "sensors.UltraSonicSensor.pauseUntil": "Wartet, bis das Ereignis eintritt.",
+  "sensors.UltraSonicSensor.setThreshold": "Legt einen Schwellenwert fest.",
+  "sensors.UltraSonicSensor.setThreshold|param|condition": "Bedingung „in der Nähe“ oder „erkannt“",
+  "sensors.UltraSonicSensor.setThreshold|param|value": "der Schwellenwert",
+  "sensors.UltraSonicSensor.threshold": "Erfasst den Schwellenwert.",
+  "sensors.UltraSonicSensor.threshold|param|condition": "Bedingung „Nähe“"
+}

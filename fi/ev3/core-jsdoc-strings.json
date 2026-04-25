@@ -1,1 +1,5 @@
-{"MMap.getNumber":"Lue luku määrätyssä muodossa puskurista.","MMap.length":"Palauttaa puskuriobjektin pituuden.","MMap.setNumber":"Kirjoita luku määrätyssä muodossa puskuriin."}
+{
+  "MMap.getNumber": "Lue luku määrätyssä muodossa puskurista.",
+  "MMap.length": "Palauttaa puskuriobjektin pituuden.",
+  "MMap.setNumber": "Kirjoita luku määrätyssä muodossa puskuriin."
+}

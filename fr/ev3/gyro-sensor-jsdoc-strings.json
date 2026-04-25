@@ -1,1 +1,10 @@
-{"sensors.GyroSensor.angle":"Récupère l'angle actuel du gyroscope.","sensors.GyroSensor.calibrate":"Détecte si l'étalonnage est nécessaire et effectue une réinitialisation complète, calcul de la dérivée.\nDoit être appelé lorsque le capteur est complètement immobile.","sensors.GyroSensor.computeDrift":"Calcule la dérive du capteur courant en utilisant des mesures de taux.","sensors.GyroSensor.drift":"Obtient la dérive de taux de rotation calculée","sensors.GyroSensor.pauseUntilRotated":"Met en pause le programme jusqu'à ce que le gyro détecte\nque l'angle a changé par la quantité désirée de degrés.","sensors.GyroSensor.pauseUntilRotated|param|degrees":"les degrés à tourner","sensors.GyroSensor.rate":"Récupère le taux de rotation actuel du gyroscope.","sensors.GyroSensor.reset":"Force une calibration du gyro. Doit être appelé lorsque le capteur est complètement immobile."}
+{
+  "sensors.GyroSensor.angle": "Récupère l'angle actuel du gyroscope.",
+  "sensors.GyroSensor.calibrate": "Détecte si l'étalonnage est nécessaire et effectue une réinitialisation complète, calcul de la dérivée.\nDoit être appelé lorsque le capteur est complètement immobile.",
+  "sensors.GyroSensor.computeDrift": "Calcule la dérive du capteur courant en utilisant des mesures de taux.",
+  "sensors.GyroSensor.drift": "Obtient la dérive de taux de rotation calculée",
+  "sensors.GyroSensor.pauseUntilRotated": "Met en pause le programme jusqu'à ce que le gyro détecte\nque l'angle a changé par la quantité désirée de degrés.",
+  "sensors.GyroSensor.pauseUntilRotated|param|degrees": "les degrés à tourner",
+  "sensors.GyroSensor.rate": "Récupère le taux de rotation actuel du gyroscope.",
+  "sensors.GyroSensor.reset": "Force une calibration du gyro. Doit être appelé lorsque le capteur est complètement immobile."
+}

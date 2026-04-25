@@ -1,1 +1,18 @@
-{"brick.clearScreen|block":"清除屏幕","brick.showImage|block":"显示图像%image=screen_image_picker","brick.showNumber|block":"显示第 %line 行的数字%name|","brick.showPorts|block":"显示端口","brick.showString|block":"显示第 %line 行的字符串%text|","brick.showValue|block":"显示第 %line 行的值 %name|= %text|","brick|block":"程序块","helpers|block":"助手","image|block":"图像","{id:category}Brick":"程序块","{id:category}Control":"控制","{id:category}Helpers":"助手","{id:category}Image":"图像","{id:category}Images":"图像","{id:category}Texteffects":"文本效果","{id:group}Screen":"显示屏"}
+{
+  "brick.clearScreen|block": "清除屏幕",
+  "brick.showImage|block": "显示图像%image=screen_image_picker",
+  "brick.showNumber|block": "显示第 %line 行的数字%name|",
+  "brick.showPorts|block": "显示端口",
+  "brick.showString|block": "显示第 %line 行的字符串%text|",
+  "brick.showValue|block": "显示第 %line 行的值 %name|= %text|",
+  "brick|block": "程序块",
+  "helpers|block": "助手",
+  "image|block": "图像",
+  "{id:category}Brick": "程序块",
+  "{id:category}Control": "控制",
+  "{id:category}Helpers": "助手",
+  "{id:category}Image": "图像",
+  "{id:category}Images": "图像",
+  "{id:category}Texteffects": "文本效果",
+  "{id:group}Screen": "显示屏"
+}

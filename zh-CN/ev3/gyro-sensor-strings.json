@@ -1,1 +1,12 @@
-{"sensors.GyroSensor.angle|block":"**陀螺仪**%this|角度","sensors.GyroSensor.rate|block":"**陀螺仪**%this|速率","sensors.GyroSensor.reset|block":"重置**陀螺仪**%this|","sensors.gyro1|block":"1","sensors.gyro2|block":"2","sensors.gyro3|block":"3","sensors.gyro4|block":"4","sensors|block":"传感器","{id:category}Sensors":"传感器","{id:group}Gyro Sensor":"陀螺仪传感器"}
+{
+  "sensors.GyroSensor.angle|block": "**陀螺仪**%this|角度",
+  "sensors.GyroSensor.rate|block": "**陀螺仪**%this|速率",
+  "sensors.GyroSensor.reset|block": "重置**陀螺仪**%this|",
+  "sensors.gyro1|block": "1",
+  "sensors.gyro2|block": "2",
+  "sensors.gyro3|block": "3",
+  "sensors.gyro4|block": "4",
+  "sensors|block": "传感器",
+  "{id:category}Sensors": "传感器",
+  "{id:group}Gyro Sensor": "陀螺仪传感器"
+}

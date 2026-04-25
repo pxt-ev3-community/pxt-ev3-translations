@@ -1,1 +1,13 @@
-{"brick.showMood|block":"显示情绪%mood=mood_image_picker","brick|block":"程序块","console.sendToScreen|block":"發送監控台訊息到屏幕","console|block":"監控台","moods|block":"情绪","{id:category}Brick":"程序块","{id:category}Console":"控制台","{id:category}Images":"图像","{id:category}Moods":"情绪","{id:group}Program":"编制程序","{id:group}Screen":"显示屏"}
+{
+  "brick.showMood|block": "显示情绪%mood=mood_image_picker",
+  "brick|block": "程序块",
+  "console.sendToScreen|block": "發送監控台訊息到屏幕",
+  "console|block": "監控台",
+  "moods|block": "情绪",
+  "{id:category}Brick": "程序块",
+  "{id:category}Console": "控制台",
+  "{id:category}Images": "图像",
+  "{id:category}Moods": "情绪",
+  "{id:group}Program": "编制程序",
+  "{id:group}Screen": "显示屏"
+}

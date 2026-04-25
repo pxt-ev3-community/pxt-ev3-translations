@@ -1,1 +1,25 @@
-{"sensors.ColorSensor":"颜色传感器是一种数字传感器，可以探测到进入传感器表面小窗口的颜色或光强度。","sensors.ColorSensor.ambientLight":"获取环境光","sensors.ColorSensor.calibrateLight":"收集光照条件的测量值，并将阈值调整至 10% / 90%。","sensors.ColorSensor.color":"通过颜色传感器获取当前颜色。","sensors.ColorSensor.colorMode":"获取当前颜色模式","sensors.ColorSensor.isColorDetected|param|color":"待探测颜色","sensors.ColorSensor.onColorDetected":"探测到给定颜色时，运行寄存器代码。","sensors.ColorSensor.onColorDetected|param|color":"待探测颜色，如：ColorSensorColor.Blue","sensors.ColorSensor.onColorDetected|param|handler":"探测到颜色时，运行代码","sensors.ColorSensor.onLightDetected":"环境光强度改变时，运行寄存器代码","sensors.ColorSensor.onLightDetected|param|condition":"光照条件","sensors.ColorSensor.onLightDetected|param|handler":"探测到颜色时，运行代码","sensors.ColorSensor.pauseUntilColorDetected":"等待指定颜色被探测到","sensors.ColorSensor.pauseUntilColorDetected|param|color":"待探测颜色","sensors.ColorSensor.pauseUntilLightDetected":"等待指定颜色被探测到","sensors.ColorSensor.reflectedLight":"获取反射光线强度值","sensors.ColorSensor.setThreshold":"设置阈值","sensors.ColorSensor.setThreshold|param|condition":"暗或亮光照条件","sensors.ColorSensor.setThreshold|param|value":"值阈值，如：10","sensors.ColorSensor.threshold":"获取阈值","sensors.ColorSensor.threshold|param|condition":"光照条件","sensors.color":"返回一种传感器可以探测到的颜色","sensors.color|param|color":"传感器感测到的颜色，如：ColorSensorColor.Red"}
+{
+  "sensors.ColorSensor": "颜色传感器是一种数字传感器，可以探测到进入传感器表面小窗口的颜色或光强度。",
+  "sensors.ColorSensor.ambientLight": "获取环境光",
+  "sensors.ColorSensor.calibrateLight": "收集光照条件的测量值，并将阈值调整至 10% / 90%。",
+  "sensors.ColorSensor.color": "通过颜色传感器获取当前颜色。",
+  "sensors.ColorSensor.colorMode": "获取当前颜色模式",
+  "sensors.ColorSensor.isColorDetected|param|color": "待探测颜色",
+  "sensors.ColorSensor.onColorDetected": "探测到给定颜色时，运行寄存器代码。",
+  "sensors.ColorSensor.onColorDetected|param|color": "待探测颜色，如：ColorSensorColor.Blue",
+  "sensors.ColorSensor.onColorDetected|param|handler": "探测到颜色时，运行代码",
+  "sensors.ColorSensor.onLightDetected": "环境光强度改变时，运行寄存器代码",
+  "sensors.ColorSensor.onLightDetected|param|condition": "光照条件",
+  "sensors.ColorSensor.onLightDetected|param|handler": "探测到颜色时，运行代码",
+  "sensors.ColorSensor.pauseUntilColorDetected": "等待指定颜色被探测到",
+  "sensors.ColorSensor.pauseUntilColorDetected|param|color": "待探测颜色",
+  "sensors.ColorSensor.pauseUntilLightDetected": "等待指定颜色被探测到",
+  "sensors.ColorSensor.reflectedLight": "获取反射光线强度值",
+  "sensors.ColorSensor.setThreshold": "设置阈值",
+  "sensors.ColorSensor.setThreshold|param|condition": "暗或亮光照条件",
+  "sensors.ColorSensor.setThreshold|param|value": "值阈值，如：10",
+  "sensors.ColorSensor.threshold": "获取阈值",
+  "sensors.ColorSensor.threshold|param|condition": "光照条件",
+  "sensors.color": "返回一种传感器可以探测到的颜色",
+  "sensors.color|param|color": "传感器感测到的颜色，如：ColorSensorColor.Red"
+}

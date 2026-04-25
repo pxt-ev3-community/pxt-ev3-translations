@@ -1,1 +1,7 @@
-{"music":"Musiikkiäänien luominen.","music.changeTempoBy|param|bpm":"Muutos temmolle iskuina minuutissa, esim. 20","music.playTone|param|frequency":"toistettavan äänen taajuus hertseinä (Hz)","music.ringTone|param|frequency":"toistettavan äänen taajuus hertseinä (Hz)","music.setTempo|param|bpm":"Uusi tempo lyönteinä minuutissa, esim: 120"}
+{
+  "music": "Musiikkiäänien luominen.",
+  "music.changeTempoBy|param|bpm": "Muutos temmolle iskuina minuutissa, esim. 20",
+  "music.playTone|param|frequency": "toistettavan äänen taajuus hertseinä (Hz)",
+  "music.ringTone|param|frequency": "toistettavan äänen taajuus hertseinä (Hz)",
+  "music.setTempo|param|bpm": "Uusi tempo lyönteinä minuutissa, esim: 120"
+}

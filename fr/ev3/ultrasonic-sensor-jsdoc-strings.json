@@ -1,1 +1,11 @@
-{"sensors.UltraSonicSensor.distance":"Obtient la distance du sonar en centimètres","sensors.UltraSonicSensor.onEvent":"Enregistrez le code à exécuter lorsqu'un objet se rapproche","sensors.UltraSonicSensor.onEvent|param|handler":"le code à exécuter lorsque détecté","sensors.UltraSonicSensor.pauseUntil":"Attend que l’événement se produise","sensors.UltraSonicSensor.setThreshold":"Définir une valeur seuil","sensors.UltraSonicSensor.setThreshold|param|condition":"la condition proche ou détectée","sensors.UltraSonicSensor.setThreshold|param|value":"le seuil de valeur, ex","sensors.UltraSonicSensor.threshold":"Obtenir une valeur seuil","sensors.UltraSonicSensor.threshold|param|condition":"la condition de proximité"}
+{
+  "sensors.UltraSonicSensor.distance": "Obtient la distance du sonar en centimètres",
+  "sensors.UltraSonicSensor.onEvent": "Enregistrez le code à exécuter lorsqu'un objet se rapproche",
+  "sensors.UltraSonicSensor.onEvent|param|handler": "le code à exécuter lorsque détecté",
+  "sensors.UltraSonicSensor.pauseUntil": "Attend que l’événement se produise",
+  "sensors.UltraSonicSensor.setThreshold": "Définir une valeur seuil",
+  "sensors.UltraSonicSensor.setThreshold|param|condition": "la condition proche ou détectée",
+  "sensors.UltraSonicSensor.setThreshold|param|value": "le seuil de valeur, ex",
+  "sensors.UltraSonicSensor.threshold": "Obtenir une valeur seuil",
+  "sensors.UltraSonicSensor.threshold|param|condition": "la condition de proximité"
+}

@@ -1,1 +1,12 @@
-{"sensors.TouchSensor.isPressed|block":"**kosketusanturi** %this|on pohjassa","sensors.TouchSensor.onEvent|block":"kun **kosketusanturi** %this|on %event","sensors.TouchSensor.pauseUntil|block":"odota kunnes **kosketusanturi** %this|on %event","sensors.TouchSensor.wasPressed|block":"**kosketusanturi** %this|on painettu","sensors.touch1|block":"1","sensors.touch2|block":"2","sensors.touch3|block":"3","sensors.touch4|block":"4","{id:category}Sensors":"Anturit","{id:group}Touch Sensor":"Kosketusanturi"}
+{
+  "sensors.TouchSensor.isPressed|block": "**kosketusanturi** %this|on pohjassa",
+  "sensors.TouchSensor.onEvent|block": "kun **kosketusanturi** %this|on %event",
+  "sensors.TouchSensor.pauseUntil|block": "odota kunnes **kosketusanturi** %this|on %event",
+  "sensors.TouchSensor.wasPressed|block": "**kosketusanturi** %this|on painettu",
+  "sensors.touch1|block": "1",
+  "sensors.touch2|block": "2",
+  "sensors.touch3|block": "3",
+  "sensors.touch4|block": "4",
+  "{id:category}Sensors": "Anturit",
+  "{id:group}Touch Sensor": "Kosketusanturi"
+}

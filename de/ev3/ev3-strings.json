@@ -1,1 +1,14 @@
-{"brick.exitProgram|block":"Programm beenden","brick.showMood|block":"zeige Stimmung %mood=mood_image_picker an","brick|block":"Stein","console.sendToScreen|block":"Konsole an Display senden","console|block":"konsole","moods|block":"Stimmungen","{id:category}Brick":"Stein","{id:category}Console":"Konsole","{id:category}Images":"Bilder","{id:category}Moods":"Stimmungen","{id:group}Program":"Programmieren","{id:group}Screen":"Display"}
+{
+  "brick.exitProgram|block": "Programm beenden",
+  "brick.showMood|block": "zeige Stimmung %mood=mood_image_picker an",
+  "brick|block": "Stein",
+  "console.sendToScreen|block": "Konsole an Display senden",
+  "console|block": "konsole",
+  "moods|block": "Stimmungen",
+  "{id:category}Brick": "Stein",
+  "{id:category}Console": "Konsole",
+  "{id:category}Images": "Bilder",
+  "{id:category}Moods": "Stimmungen",
+  "{id:group}Program": "Programmieren",
+  "{id:group}Screen": "Display"
+}

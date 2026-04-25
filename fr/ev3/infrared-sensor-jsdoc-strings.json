@@ -1,1 +1,24 @@
-{"sensors.InfraredSensor.onEvent":"Enregistrez le code à exécuter lorsqu'un objet se rapproche.","sensors.InfraredSensor.onEvent|param|handler":"le code à exécuter lorsque détecté","sensors.InfraredSensor.pauseUntil":"Attendez que le capteur infrarouge détecte quelque chose","sensors.InfraredSensor.proximity":"Obtenir la promixité mesurée par le capteur infrarouge, de ``0`` (fermé) à ``100`` (loin)","sensors.InfraredSensor.proximityThreshold":"Obtenir une valeur seuil","sensors.InfraredSensor.proximityThreshold|param|condition":"la condition de proximité","sensors.InfraredSensor.setPromixityThreshold":"Définir une valeur seuil","sensors.InfraredSensor.setPromixityThreshold|param|condition":"l’état de lumière sombre ou lumineuse","sensors.InfraredSensor.setPromixityThreshold|param|value":"le seuil de valeur, ex","sensors.InfraredSensor.setRemoteChannel":"Définir le canal distant à écouter","sensors.InfraredSensor.setRemoteChannel|param|channel":"le canal à écouter","sensors.RemoteInfraredBeaconButton.isPressed":"Vérifie si un bouton est enfoncé ou non.","sensors.RemoteInfraredBeaconButton.onEvent":"Faire quelque chose quand une touche de télécommande est enfoncée, tapée, ou relâchée","sensors.RemoteInfraredBeaconButton.onEvent|param|body":"code à exécuter lorsque l'évènement est déclenché","sensors.RemoteInfraredBeaconButton.pauseUntil":"Mettre en pause jusqu'à ce qu'un événement de bouton de telecommande se produise","sensors.RemoteInfraredBeaconButton.pauseUntil|param|ev":"l'évènement à attendre","sensors.RemoteInfraredBeaconButton.wasPressed":"Vérifie si le bouton a été enfoncé à nouveau depuis la dernière vérification.","sensors.remoteButtonBottomLeft":"Bouton de télécommande inférieur gauche.","sensors.remoteButtonBottomRight":"Bouton de télécommande inférieur droite.","sensors.remoteButtonCenter":"Bouton de télécommande inférieur centre.","sensors.remoteButtonTopLeft":"Bouton de télécommande inférieur haut gauche.","sensors.remoteButtonTopRight":"Bouton de télécommande inférieur haut droite."}
+{
+  "sensors.InfraredSensor.onEvent": "Enregistrez le code à exécuter lorsqu'un objet se rapproche.",
+  "sensors.InfraredSensor.onEvent|param|handler": "le code à exécuter lorsque détecté",
+  "sensors.InfraredSensor.pauseUntil": "Attendez que le capteur infrarouge détecte quelque chose",
+  "sensors.InfraredSensor.proximity": "Obtenir la promixité mesurée par le capteur infrarouge, de ``0`` (fermé) à ``100`` (loin)",
+  "sensors.InfraredSensor.proximityThreshold": "Obtenir une valeur seuil",
+  "sensors.InfraredSensor.proximityThreshold|param|condition": "la condition de proximité",
+  "sensors.InfraredSensor.setPromixityThreshold": "Définir une valeur seuil",
+  "sensors.InfraredSensor.setPromixityThreshold|param|condition": "l’état de lumière sombre ou lumineuse",
+  "sensors.InfraredSensor.setPromixityThreshold|param|value": "le seuil de valeur, ex",
+  "sensors.InfraredSensor.setRemoteChannel": "Définir le canal distant à écouter",
+  "sensors.InfraredSensor.setRemoteChannel|param|channel": "le canal à écouter",
+  "sensors.RemoteInfraredBeaconButton.isPressed": "Vérifie si un bouton est enfoncé ou non.",
+  "sensors.RemoteInfraredBeaconButton.onEvent": "Faire quelque chose quand une touche de télécommande est enfoncée, tapée, ou relâchée",
+  "sensors.RemoteInfraredBeaconButton.onEvent|param|body": "code à exécuter lorsque l'évènement est déclenché",
+  "sensors.RemoteInfraredBeaconButton.pauseUntil": "Mettre en pause jusqu'à ce qu'un événement de bouton de telecommande se produise",
+  "sensors.RemoteInfraredBeaconButton.pauseUntil|param|ev": "l'évènement à attendre",
+  "sensors.RemoteInfraredBeaconButton.wasPressed": "Vérifie si le bouton a été enfoncé à nouveau depuis la dernière vérification.",
+  "sensors.remoteButtonBottomLeft": "Bouton de télécommande inférieur gauche.",
+  "sensors.remoteButtonBottomRight": "Bouton de télécommande inférieur droite.",
+  "sensors.remoteButtonCenter": "Bouton de télécommande inférieur centre.",
+  "sensors.remoteButtonTopLeft": "Bouton de télécommande inférieur haut gauche.",
+  "sensors.remoteButtonTopRight": "Bouton de télécommande inférieur haut droite."
+}

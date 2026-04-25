@@ -1,1 +1,11 @@
-{"sensors.UltraSonicSensor.distance":"获取 Sonar 的距离（厘米）","sensors.UltraSonicSensor.onEvent":"靠近物体或探测到物体时，运行寄存器代码","sensors.UltraSonicSensor.onEvent|param|handler":"探测到颜色时，运行代码","sensors.UltraSonicSensor.pauseUntil":"等待事件引发","sensors.UltraSonicSensor.setThreshold":"设置阈值","sensors.UltraSonicSensor.setThreshold|param|condition":"附近状况或探测状况","sensors.UltraSonicSensor.setThreshold|param|value":"值阈值","sensors.UltraSonicSensor.threshold":"获取该阈值","sensors.UltraSonicSensor.threshold|param|condition":"近程条件"}
+{
+  "sensors.UltraSonicSensor.distance": "获取 Sonar 的距离（厘米）",
+  "sensors.UltraSonicSensor.onEvent": "靠近物体或探测到物体时，运行寄存器代码",
+  "sensors.UltraSonicSensor.onEvent|param|handler": "探测到颜色时，运行代码",
+  "sensors.UltraSonicSensor.pauseUntil": "等待事件引发",
+  "sensors.UltraSonicSensor.setThreshold": "设置阈值",
+  "sensors.UltraSonicSensor.setThreshold|param|condition": "附近状况或探测状况",
+  "sensors.UltraSonicSensor.setThreshold|param|value": "值阈值",
+  "sensors.UltraSonicSensor.threshold": "获取该阈值",
+  "sensors.UltraSonicSensor.threshold|param|condition": "近程条件"
+}

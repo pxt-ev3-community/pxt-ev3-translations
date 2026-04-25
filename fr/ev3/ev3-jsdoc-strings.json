@@ -1,1 +1,20 @@
-{"brick.Mood":"Une humeur","brick.Mood.show":"Montre l'humeur sur l'EV3","brick.exitProgram":"Quitte le programme dans le menu principal. (dans le simulateur le redémarre)","brick.showMood":"Afficher une ambiance sur l’écran de la brique","console":"Lecture et écriture des données sur la sortie console.","console.sendToScreen":"Envoie les messages de journal à l’écran de brique et utilise les boutons de brique de haut en bas pour faire défiler.","moods.angry":"Une humeur en colère","moods.awake":"Une humeur éveillée","moods.dizzy":"Une humeur étourdie","moods.knockedOut":"Une humeur assommée","moods.love":"Une humeur d’amour","moods.middleLeft":"Regardant a gauche","moods.middleRight":"Regardant a droite","moods.neutral":"D’humeur neutre","moods.sad":"Une humeur triste","moods.sleeping":"Une humeur de sommeil","moods.tired":"Une humeur fatiguée","moods.winking":"Dans l’humeur de rire"}
+{
+  "brick.Mood": "Une humeur",
+  "brick.Mood.show": "Montre l'humeur sur l'EV3",
+  "brick.exitProgram": "Quitte le programme dans le menu principal. (dans le simulateur le redémarre)",
+  "brick.showMood": "Afficher une ambiance sur l’écran de la brique",
+  "console": "Lecture et écriture des données sur la sortie console.",
+  "console.sendToScreen": "Envoie les messages de journal à l’écran de brique et utilise les boutons de brique de haut en bas pour faire défiler.",
+  "moods.angry": "Une humeur en colère",
+  "moods.awake": "Une humeur éveillée",
+  "moods.dizzy": "Une humeur étourdie",
+  "moods.knockedOut": "Une humeur assommée",
+  "moods.love": "Une humeur d’amour",
+  "moods.middleLeft": "Regardant a gauche",
+  "moods.middleRight": "Regardant a droite",
+  "moods.neutral": "D’humeur neutre",
+  "moods.sad": "Une humeur triste",
+  "moods.sleeping": "Une humeur de sommeil",
+  "moods.tired": "Une humeur fatiguée",
+  "moods.winking": "Dans l’humeur de rire"
+}

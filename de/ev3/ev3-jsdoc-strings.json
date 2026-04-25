@@ -1,1 +1,20 @@
-{"brick.Mood":"Eine Stimmung","brick.Mood.show":"Zeigt eine Stimmung auf dem EV3 an.","brick.exitProgram":"Verlässt das Programm in das Hauptmenü. (Neustart im Simulator)","brick.showMood":"Eine Stimmung auf dem Stein-Display anzeigen.","console":"Lesen und Schreiben von Daten in die Konsolenausgabe.","console.sendToScreen":"Sendet die Logmeldungen auf den Baustein-Bildschirm und benutzt die Baustein-Hoch- und Runter-Schaltfläche, um zu scrollen.","moods.angry":"Wütend","moods.awake":"Wach","moods.dizzy":"Schwindelig","moods.knockedOut":"K. O.","moods.love":"Verliebt","moods.middleLeft":"Nach links schauend","moods.middleRight":"Nach rechts schauend","moods.neutral":"Neutral","moods.sad":"Traurig","moods.sleeping":"Schlafend","moods.tired":"Müde","moods.winking":"Lachen"}
+{
+  "brick.Mood": "Eine Stimmung",
+  "brick.Mood.show": "Zeigt eine Stimmung auf dem EV3 an.",
+  "brick.exitProgram": "Verlässt das Programm in das Hauptmenü. (Neustart im Simulator)",
+  "brick.showMood": "Eine Stimmung auf dem Stein-Display anzeigen.",
+  "console": "Lesen und Schreiben von Daten in die Konsolenausgabe.",
+  "console.sendToScreen": "Sendet die Logmeldungen auf den Baustein-Bildschirm und benutzt die Baustein-Hoch- und Runter-Schaltfläche, um zu scrollen.",
+  "moods.angry": "Wütend",
+  "moods.awake": "Wach",
+  "moods.dizzy": "Schwindelig",
+  "moods.knockedOut": "K. O.",
+  "moods.love": "Verliebt",
+  "moods.middleLeft": "Nach links schauend",
+  "moods.middleRight": "Nach rechts schauend",
+  "moods.neutral": "Neutral",
+  "moods.sad": "Traurig",
+  "moods.sleeping": "Schlafend",
+  "moods.tired": "Müde",
+  "moods.winking": "Lachen"
+}

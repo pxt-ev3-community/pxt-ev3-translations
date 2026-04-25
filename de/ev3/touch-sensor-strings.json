@@ -1,1 +1,12 @@
-{"sensors.TouchSensor.isPressed|block":"**Berührungssensor** %this|wird gedrückt","sensors.TouchSensor.onEvent|block":"wenn **Berührungssensor** %this|%event","sensors.TouchSensor.pauseUntil|block":"warte, bis **Berührungssensor** %this|%event","sensors.TouchSensor.wasPressed|block":"**Berührungssensor** %this|wurde gedrückt","sensors.touch1|block":"1","sensors.touch2|block":"2","sensors.touch3|block":"3","sensors.touch4|block":"4","{id:category}Sensors":"Sensoren","{id:group}Touch Sensor":"Berührungssensor"}
+{
+  "sensors.TouchSensor.isPressed|block": "**Berührungssensor** %this|wird gedrückt",
+  "sensors.TouchSensor.onEvent|block": "wenn **Berührungssensor** %this|%event",
+  "sensors.TouchSensor.pauseUntil|block": "warte, bis **Berührungssensor** %this|%event",
+  "sensors.TouchSensor.wasPressed|block": "**Berührungssensor** %this|wurde gedrückt",
+  "sensors.touch1|block": "1",
+  "sensors.touch2|block": "2",
+  "sensors.touch3|block": "3",
+  "sensors.touch4|block": "4",
+  "{id:category}Sensors": "Sensoren",
+  "{id:group}Touch Sensor": "Berührungssensor"
+}

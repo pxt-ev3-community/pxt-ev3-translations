@@ -1,1 +1,11 @@
-{"sensors.UltraSonicSensor.distance":"ソーナーからの距離を取得（センチ）","sensors.UltraSonicSensor.onEvent":"物体が接近または検出された際に実行するプログラムを登録します","sensors.UltraSonicSensor.onEvent|param|handler":"検出された際に実行するプログラム","sensors.UltraSonicSensor.pauseUntil":"イベントが発生するまで待機","sensors.UltraSonicSensor.setThreshold":"しきい値を設定","sensors.UltraSonicSensor.setThreshold|param|condition":"接近または検出条件","sensors.UltraSonicSensor.setThreshold|param|value":"しきい値","sensors.UltraSonicSensor.threshold":"しきい値を取得","sensors.UltraSonicSensor.threshold|param|condition":"接近度条件"}
+{
+  "sensors.UltraSonicSensor.distance": "ソーナーからの距離を取得（センチ）",
+  "sensors.UltraSonicSensor.onEvent": "物体が接近または検出された際に実行するプログラムを登録します",
+  "sensors.UltraSonicSensor.onEvent|param|handler": "検出された際に実行するプログラム",
+  "sensors.UltraSonicSensor.pauseUntil": "イベントが発生するまで待機",
+  "sensors.UltraSonicSensor.setThreshold": "しきい値を設定",
+  "sensors.UltraSonicSensor.setThreshold|param|condition": "接近または検出条件",
+  "sensors.UltraSonicSensor.setThreshold|param|value": "しきい値",
+  "sensors.UltraSonicSensor.threshold": "しきい値を取得",
+  "sensors.UltraSonicSensor.threshold|param|condition": "接近度条件"
+}
