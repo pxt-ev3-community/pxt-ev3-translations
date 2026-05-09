@@ -40,7 +40,8 @@ do
 
         # Mangle leading/trailing spaces because pxt seems to strip them otherwise.
         jq 'walk(if type == "string" then sub("^ "; "\u200D ") | sub(" $"; " \u200D") else . end)' tmp.json > $lang/$file
-        sleep 1
+        rm tmp.json
+        sleep 0.1
     done
 done
 
