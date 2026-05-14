@@ -94,6 +94,7 @@
   "String.slice": "Palauta nykyisen merkkijonon alimerkkijono.",
   "String.substr": "Palauta nykyisen merkkijonon alimerkkijono.",
   "console.logValue|param|value": "kirjoittaa",
+  "control": "Suorituksenaikaiset ja tapahtuma-apuohjelmat.",
   "control.deviceSerialNumber": "Johtaa tälle laitteelle ainutkertaisen ja yhdenmukaisen sarjanumeron sisäisistä tiedoista.",
   "control.millis": "Hakee käynnistyksestä kuluneen ajan millisekunteina.",
   "control.waitMicros|param|micros": "odotusaika mikrosekunteina, esim: 4",

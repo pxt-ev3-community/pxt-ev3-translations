@@ -1,0 +1,6 @@
+{
+  "broadcast": "Diffusion de messages",
+  "broadcast.onMessageReceived": "Enregistrer le code à exécuter lorsqu'un message est reçu",
+  "broadcast.sendMessage": "Envoie un message pour activer le code",
+  "broadcast.sendMessageAndPause": "Envoie un message et se met en pause jusqu'à ce que le gestionnaire se termine."
+}

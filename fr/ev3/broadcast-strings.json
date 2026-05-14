@@ -1,0 +1,7 @@
+{
+  "broadcast.onMessageReceived|block": "quand %id=msg_enum_shim|reçu",
+  "broadcast.sendMessageAndPause|block": "envoyer %id=msg_enum_shim| et pause",
+  "broadcast.sendMessage|block": "envoyer %id=msg_enum_shim",
+  "broadcast|block": "diffusion",
+  "{id:category}Broadcast": "Diffusion"
+}

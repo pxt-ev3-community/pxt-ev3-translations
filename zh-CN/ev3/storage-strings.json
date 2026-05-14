@@ -1,0 +1,6 @@
+{
+  "storage.Separators.Comma|block": "逗号",
+  "storage.Separators.Semicolon|block": "分号",
+  "storage|block": "存储",
+  "{id:category}Storage": "存储"
+}

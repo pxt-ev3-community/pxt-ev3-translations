@@ -1,0 +1,19 @@
+{
+  "storage.Separators.Comma|block": "pilkku",
+  "storage.Separators.Semicolon|block": "puolipilkku",
+  "storage.Storage.appendCSVHeaders|block": "tallenna %source|%filename|CSV-otsakkeet %headers",
+  "storage.Storage.appendCSV|block": "tallenna %source|%filename|CSV-tietue %data",
+  "storage.Storage.appendLine|block": "tallenna %source|%filename|lisää rivi %data",
+  "storage.Storage.append|block": "tallenna %source|%filename|lisää loppuun %data",
+  "storage.Storage.exists|block": "tallenna %source|%filename|onko olemassa",
+  "storage.Storage.limit|block": "tallenna %source|katkaise %filename|pituuteen %size|tavua",
+  "storage.Storage.overwrite|block": "tallenna %source|%filename|ylikirjoita|%data",
+  "storage.Storage.read|block": "tallenna %source|lue %filename|tekstinä",
+  "storage.Storage.remove|block": "tallenna %source|poista %filename",
+  "storage.Storage.size|block": "tallenna %source|%filename|tarkista koko",
+  "storage.permanent|block": "pysyvästi",
+  "storage.setCSVSeparator|block": "tallenna CSV erotinmerkillä $sep|",
+  "storage.temporary|block": "väliaikaisesti",
+  "storage|block": "tallenna",
+  "{id:category}Storage": "Tallennustila"
+}

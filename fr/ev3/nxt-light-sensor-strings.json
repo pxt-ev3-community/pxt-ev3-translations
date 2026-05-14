@@ -1,0 +1,13 @@
+{
+  "NXTLightIntensityMode.Ambient|block": "lumière ambiante",
+  "NXTLightIntensityMode.ReflectedRaw|block": "lumière réfléchie (brute)",
+  "NXTLightIntensityMode.Reflected|block": "lumière réfléchie",
+  "NXTLightSensorMode.AmbientLight|block": "lumière ambiante",
+  "NXTLightSensorMode.ReflectedLightRaw|block": "lumière réfléchie (brute)",
+  "NXTLightSensorMode.ReflectedLight|block": "lumière réfléchie",
+  "sensors.nxtLight1|block": "1",
+  "sensors.nxtLight2|block": "2",
+  "sensors.nxtLight3|block": "3",
+  "sensors.nxtLight4|block": "4",
+  "{id:category}Sensors": "Capteurs"
+}

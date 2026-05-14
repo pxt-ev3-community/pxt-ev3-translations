@@ -1192,6 +1192,7 @@
   "num": "数字",
   "number of characters in the string": "字符串中的字符数",
   "offline": "脱机",
+  "on": "开",
   "on start %1 %2": "当开机时 %1 %2",
   "on start event": "当开机时事件",
   "open [@HOMEURL@](@HOMEURL@)": "打开 [@HOMEURL@](@HOMEURL@)",

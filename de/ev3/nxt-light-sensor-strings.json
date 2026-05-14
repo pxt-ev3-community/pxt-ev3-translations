@@ -1,0 +1,14 @@
+{
+  "NXTLightIntensityMode.Ambient|block": "Umgebungslicht",
+  "NXTLightIntensityMode.ReflectedRaw|block": "reflektiertes Licht (Rohdaten)",
+  "NXTLightIntensityMode.Reflected|block": "reflektiertes Licht",
+  "NXTLightSensorMode.AmbientLight|block": "Umgebungslicht",
+  "NXTLightSensorMode.ReflectedLightRaw|block": "reflektiertes Licht (Rohdaten)",
+  "NXTLightSensorMode.ReflectedLight|block": "reflektiertes Licht",
+  "sensors.nxtLight1|block": "1",
+  "sensors.nxtLight2|block": "2",
+  "sensors.nxtLight3|block": "3",
+  "sensors.nxtLight4|block": "4",
+  "{id:category}Sensors": "Sensoren",
+  "{id:group}Light Sensor": "Lichtsensor"
+}
