@@ -77,7 +77,6 @@
   "{id:category}String": "Строка",
   "{id:category}Text": "Текст",
   "{id:category}UTF8Decoder": "UTF8Decoder",
-  "{id:group}Create": "Создать",
   "{id:group}Modify": "Изменить",
   "{id:group}Operations": "Операции",
   "{id:group}Read": "Читать"
