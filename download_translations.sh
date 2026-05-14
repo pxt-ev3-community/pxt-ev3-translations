@@ -29,6 +29,12 @@ ev3/gyro-sensor-jsdoc-strings.json
 ev3/gyro-sensor-strings.json
 ev3/infrared-sensor-jsdoc-strings.json
 ev3/infrared-sensor-strings.json
+ev3/storage-jsdoc-strings.json
+ev3/storage-strings.json
+ev3/broadcast-jsdoc-strings.json
+ev3/broadcast-strings.json
+ev3/nxt-light-sensor-jsdoc-strings.json
+ev3/nxt-light-sensor-strings.json
 "
 
 for lang in $LANGUAGES
