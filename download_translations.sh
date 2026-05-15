@@ -40,13 +40,38 @@ ev3/nxt-light-sensor-strings.json
 for lang in $LANGUAGES
 do
     mkdir -p $lang/ev3
+    mkdir -p crowdin-original/$lang/ev3
+
     for file in $FILES
     do
+        # Take the old crowdin file as a reference
+        if [ -e crowdin-original/$lang/$file ]
+        then cp crowdin-original/$lang/$file tmp_old.json
+        else echo '{}' > tmp_old.json
+        fi
+
+        # Download latest crowdin file and pretty-print
         wget "https://makecode.com/api/translations?lang=$lang&filename=$file" -O tmp.json
+        jq . tmp.json > tmp_new.json
+        cp tmp_new.json crowdin-original/$lang/$file
+
+        # Do three-way merge with jq.
+        # Update local .json file only if tmp_new differs from tmp_old,
+        # i.e. only when there has been a change on crowdin.
+        jq -n '
+          reduce (inputs | paths(scalars)) as $path (
+            input;
+            if (([inputs][0] | getpath($path)) != ([inputs][1] | getpath($path)))
+            then setpath($path; [inputs][1] | getpath($path))
+            else .
+            end
+          )
+        ' $lang/$file tmp_old.json tmp_new.json > tmp_updated.json
 
         # Mangle leading/trailing spaces because pxt seems to strip them otherwise.
-        jq 'walk(if type == "string" then sub("^ "; "\u200D ") | sub(" $"; " \u200D") else . end)' tmp.json > $lang/$file
-        rm tmp.json
+        jq 'walk(if type == "string" then sub("^ "; "\u200D ") | sub(" $"; " \u200D") else . end)' tmp_updated.json > $lang/$file
+
+        rm tmp*.json
         sleep 0.1
     done
 done

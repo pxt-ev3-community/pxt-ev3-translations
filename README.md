@@ -9,6 +9,16 @@ They are downloaded through Microsoft's API. Example URL:
 
 https://makecode.com/api/translations?lang=de&filename=ev3/infrared-sensor-strings.json
 
+### Crowdin and local edits
+
+The [download_translations.sh](download_translations.sh) update script attempts to retain both edits made
+locally to this repository and edits done on Crowdin.
+
+When downloading, it compares the data from Crowdin with the previous files
+stored in subfolder [crowdin-original](crowdin-original). Any changes are applied
+to the main `.json` files. If there are no changes to a string on Crowdin, the
+value in this repository retains any local modifications.
+
 ### License
 
 The translations do not separately specify the license, but presumably
