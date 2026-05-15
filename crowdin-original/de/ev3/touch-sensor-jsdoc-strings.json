@@ -1,0 +1,7 @@
+{
+  "sensors.TouchSensor.isPressed": "Überprüfen, ob der Berührungssensoren berührt wird.",
+  "sensors.TouchSensor.onEvent": "Etwas tun, wenn ein Berührungssensoren berührt wird.",
+  "sensors.TouchSensor.onEvent|param|body": "Programm, das ausgeführt werden soll, wenn Ereignis eintritt",
+  "sensors.TouchSensor.pauseUntil": "Warten, bis der Berührungssensoren berührt wird.",
+  "sensors.TouchSensor.wasPressed": "Überprüfen, ob der Berührungssensoren mittlerweile berührt wurde."
+}

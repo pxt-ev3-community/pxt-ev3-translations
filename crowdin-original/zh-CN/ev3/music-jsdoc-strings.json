@@ -1,0 +1,20 @@
+{
+  "music": "产生音调。",
+  "music.beat": "返回一个节拍的持续时间（毫秒）——节拍比例。",
+  "music.beat|param|fraction": "当前全音符的比例，如：BeatFraction.Half",
+  "music.changeTempoBy": "以一定的每分钟节拍数 (bpm) 调快或调慢节奏。",
+  "music.changeTempoBy|param|bpm": "更改节奏的每分钟节拍数，如：20",
+  "music.noteFrequency": "获取音符频率。",
+  "music.noteFrequency|param|note": "音符名称，例如 Note.C",
+  "music.playSoundEffect": "开始播放声音，不必等待它完成。",
+  "music.playTone": "通过扬声器将音调播放一定时间。",
+  "music.playTone|param|frequency": "待播放音调的音高（赫兹，Hz），如：Note.C",
+  "music.playTone|param|ms": "音调持续时间（毫秒，ms），如：BeatFraction.Half",
+  "music.rest|param|ms": "休止持续时间（毫秒，ms），如：BeatFraction.Half",
+  "music.ringTone": "播放音调。",
+  "music.ringTone|param|frequency": "待播放音调的音高（赫兹，Hz），如：Note.C",
+  "music.setTempo": "将节奏设定为不同的每分钟节拍数 (bpm)。",
+  "music.setTempo|param|bpm": "新节奏（每分钟节拍数），如120",
+  "music.setVolume": "设置声音合成器的外放音量。",
+  "music.tempo": "返回节奏值（每分钟节拍数，bpm）。节奏是音符的演奏速度（每分钟节拍数）。节奏值越大，音符演奏的越快。"
+}

@@ -1,0 +1,11 @@
+{
+  "NXTLightIntensityMode.Ambient|block": "环境光",
+  "NXTLightIntensityMode.Reflected|block": "反射光",
+  "NXTLightSensorMode.AmbientLight|block": "环境光",
+  "NXTLightSensorMode.ReflectedLight|block": "反射光",
+  "sensors.nxtLight1|block": "1",
+  "sensors.nxtLight2|block": "2",
+  "sensors.nxtLight3|block": "3",
+  "sensors.nxtLight4|block": "4",
+  "{id:category}Sensors": "传感器"
+}

@@ -1,0 +1,6 @@
+{
+  "broadcast": "Nachrichtenübertragung",
+  "broadcast.onMessageReceived": "Registriert Code, der ausgeführt werden soll, wenn eine Nachricht empfangen wird",
+  "broadcast.sendMessage": "Sendet eine Nachricht zum Aktivieren des Codes",
+  "broadcast.sendMessageAndPause": "Sendet eine Nachricht und pausiert bis der Handler fertig ist."
+}

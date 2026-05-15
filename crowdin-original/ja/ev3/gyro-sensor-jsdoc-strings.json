@@ -1,0 +1,6 @@
+{
+  "sensors.GyroSensor.angle": "ジャイロスコープから現在の角度を取得します。",
+  "sensors.GyroSensor.drift": "計算された角速度ドリフトを取得",
+  "sensors.GyroSensor.rate": "ジャイロスコープから現在の回転角速度を取得します。",
+  "sensors.GyroSensor.reset": "ジャイロの調整を強制します。センサーが完全に静止している際に呼び出す必要があります。"
+}

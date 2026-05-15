@@ -1,0 +1,12 @@
+{
+  "brick.showMood|block": "ムード%mood=mood_image_pickerを表示する",
+  "brick|block": "ブロック",
+  "console|block": "コンソール",
+  "moods|block": "ムード",
+  "{id:category}Brick": "インテリジェントブロック",
+  "{id:category}Console": "コンソール",
+  "{id:category}Images": "画像",
+  "{id:category}Moods": "ムード",
+  "{id:group}Program": "プログラム",
+  "{id:group}Screen": "画面"
+}

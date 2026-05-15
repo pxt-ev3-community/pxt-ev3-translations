@@ -1,0 +1,15 @@
+{
+  "UltrasonicSensorEvent.ObjectDetected|block": "objet détecté",
+  "UltrasonicSensorEvent.ObjectNear|block": "objet proche",
+  "sensors.UltraSonicSensor.distance|block": "**ultrasons** %this|distance",
+  "sensors.UltraSonicSensor.onEvent|block": "lorsque **ultrasons** %this|%event",
+  "sensors.UltraSonicSensor.pauseUntil|block": "pause jusqu'à **ultrasons** %this| %event",
+  "sensors.UltraSonicSensor.setThreshold|block": "définir **ultrasons** %this|%condition|à %value",
+  "sensors.UltraSonicSensor.threshold|block": "**ultrasons** %this|%condition",
+  "sensors.ultrasonic1|block": "1",
+  "sensors.ultrasonic2|block": "2",
+  "sensors.ultrasonic3|block": "3",
+  "sensors.ultrasonic4|block": "4",
+  "{id:category}Sensors": "Capteurs",
+  "{id:group}Ultrasonic Sensor": "Capteur Ultrasonique"
+}

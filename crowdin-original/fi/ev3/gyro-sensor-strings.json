@@ -1,0 +1,16 @@
+{
+  "sensors.GyroSensor.angle|block": "**gyro** %this|kulma",
+  "sensors.GyroSensor.calibrate|block": "kalibroi **gyro** %this|",
+  "sensors.GyroSensor.computeDrift|block": "laske **gyro** %this|ryömintä",
+  "sensors.GyroSensor.drift|block": "**gyro** %this|ryömintä",
+  "sensors.GyroSensor.pauseUntilRotated|block": "odota kunnes **gyro** %this|on kääntynyt %degrees=rotationPicker|astetta",
+  "sensors.GyroSensor.rate|block": "**gyro** %this|pyörimisnopeus",
+  "sensors.GyroSensor.reset|block": "nollaa **gyro** %this|",
+  "sensors.gyro1|block": "1",
+  "sensors.gyro2|block": "2",
+  "sensors.gyro3|block": "3",
+  "sensors.gyro4|block": "4",
+  "sensors|block": "anturit",
+  "{id:category}Sensors": "Anturit",
+  "{id:group}Gyro Sensor": "Gyroskooppi"
+}

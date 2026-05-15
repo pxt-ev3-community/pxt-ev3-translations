@@ -1,0 +1,15 @@
+{
+  "UltrasonicSensorEvent.ObjectDetected|block": "探测到物体",
+  "UltrasonicSensorEvent.ObjectNear|block": "附近有物体",
+  "sensors.UltraSonicSensor.distance|block": "**超声波** %this|距离",
+  "sensors.UltraSonicSensor.onEvent|block": "开启**超声波** %this|%event",
+  "sensors.UltraSonicSensor.pauseUntil|block": "暂停直到**超声波** %this| %event",
+  "sensors.UltraSonicSensor.setThreshold|block": "将**超声波** %this|%condition|设置为%value",
+  "sensors.UltraSonicSensor.threshold|block": "**超声波** %this|%condition",
+  "sensors.ultrasonic1|block": "1",
+  "sensors.ultrasonic2|block": "2",
+  "sensors.ultrasonic3|block": "3",
+  "sensors.ultrasonic4|block": "4",
+  "{id:category}Sensors": "传感器",
+  "{id:group}Ultrasonic Sensor": "超声波传感器"
+}

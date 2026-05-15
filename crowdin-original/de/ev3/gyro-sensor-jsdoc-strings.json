@@ -1,0 +1,10 @@
+{
+  "sensors.GyroSensor.angle": "Den aktuellen Winkel vom Kreiselsensor erfassen.",
+  "sensors.GyroSensor.calibrate": "Erkennt, ob eine Kalibrierung erforderlich ist, und führt eine vollständige Reset-Drift-Berechnung durch.\nMuss aufgerufen werden, wenn der Sensor vollständig still steht.",
+  "sensors.GyroSensor.computeDrift": "Berechnet das aktuelle Abdrift des Sensors bei Verwendung von Ratenmessungen.",
+  "sensors.GyroSensor.drift": "Erfasst die berechnete Verschiebung der Drehrate.",
+  "sensors.GyroSensor.pauseUntilRotated": "Unterbricht das Programm bis das Gyro\nerkannt hat, dass sich der Winkel um die gewünschte Gradanzahl geändert hat.",
+  "sensors.GyroSensor.pauseUntilRotated|param|degrees": "die Anzahl an Graden die gedreht werden soll",
+  "sensors.GyroSensor.rate": "Die aktuelle Drehrate vom Kreiselsensor erfassen.",
+  "sensors.GyroSensor.reset": "Eine Kalibrierung des Kreiselsensors erzwingen. Muss aktiviert werden, wenn der Sensor sich nicht bewegt."
+}

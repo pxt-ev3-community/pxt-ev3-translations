@@ -1,0 +1,20 @@
+{
+  "brick.clearScreen|block": "effacer l’écran",
+  "brick.showImage|block": "afficher l'image %image=image_picker",
+  "brick.showNumber|block": "afficher le nombre %name|à la ligne %line",
+  "brick.showPorts|block": "afficher les ports",
+  "brick.showString|block": "afficher le texte %text|à la ligne %line",
+  "brick.showValue|block": "afficher la valeur %name|: %text|à la ligne %line",
+  "brick|block": "brique",
+  "helpers|block": "utilitaires",
+  "image|block": "image",
+  "{id:category}Brick": "Brique",
+  "{id:category}Control": "Contrôle",
+  "{id:category}Helpers": "Assistants",
+  "{id:category}Image": "Image",
+  "{id:category}Images": "Images",
+  "{id:category}ScreenImage": "ScreenImage",
+  "{id:category}Texteffects": "Texteffects",
+  "{id:category}_helpers_workaround": "_helpers_workaround",
+  "{id:group}Screen": "Écran"
+}

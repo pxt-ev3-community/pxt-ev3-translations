@@ -1,0 +1,16 @@
+{
+  "storage.Storage.appendCSVHeaders|block": "Speicher %source|%filename|anhängen von CSV-Headern %headers",
+  "storage.Storage.appendCSV|block": "Speicher %source|%filename|CSV anhängen %data",
+  "storage.Storage.appendLine|block": "Speicher %source|%filename|Zeile anhängen %data",
+  "storage.Storage.append|block": "Speicher %source|%filename|%data|anhängen",
+  "storage.Storage.exists|block": "Speicher %source|%filename|existiert",
+  "storage.Storage.limit|block": "Speicher %source|begrenze %filename|auf %size|Bytes",
+  "storage.Storage.overwrite|block": "Speicher %source|%filename|überschreiben mit|%data",
+  "storage.Storage.read|block": "Speicher %source| lese %filename|als String",
+  "storage.Storage.remove|block": "Speicher %source|entferne %filename",
+  "storage.Storage.size|block": "Speicher %source|%filename|Größe",
+  "storage.permanent|block": "dauerhaft",
+  "storage.temporary|block": "temporär",
+  "storage|block": "Speicher",
+  "{id:category}Storage": "Speicher"
+}

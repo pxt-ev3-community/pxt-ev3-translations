@@ -1,0 +1,7 @@
+{
+  "sensors.TouchSensor.isPressed": "检查触动传感器是否被触动。",
+  "sensors.TouchSensor.onEvent": "当触动传感器被触动时，做出响应......",
+  "sensors.TouchSensor.onEvent|param|body": "引发事件时，运行代码",
+  "sensors.TouchSensor.pauseUntil": "等待直到触动传感器被触动",
+  "sensors.TouchSensor.wasPressed": "查看自上次检查以来触动传感器是否被触动。"
+}

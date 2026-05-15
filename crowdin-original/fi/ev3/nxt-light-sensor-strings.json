@@ -1,0 +1,13 @@
+{
+  "NXTLightIntensityMode.Ambient|block": "ympäristövalo",
+  "NXTLightIntensityMode.ReflectedRaw|block": "heijastunut valo (raaka-arvo)",
+  "NXTLightIntensityMode.Reflected|block": "heijastunut valo",
+  "NXTLightSensorMode.AmbientLight|block": "ympäristövalo",
+  "NXTLightSensorMode.ReflectedLightRaw|block": "heijastunut valo (raaka-arvo)",
+  "NXTLightSensorMode.ReflectedLight|block": "heijastunut valo",
+  "sensors.nxtLight1|block": "1",
+  "sensors.nxtLight2|block": "2",
+  "sensors.nxtLight3|block": "3",
+  "sensors.nxtLight4|block": "4",
+  "{id:category}Sensors": "Anturit"
+}

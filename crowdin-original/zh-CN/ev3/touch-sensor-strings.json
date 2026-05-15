@@ -1,0 +1,12 @@
+{
+  "sensors.TouchSensor.isPressed|block": "**触动** %this|被按压",
+  "sensors.TouchSensor.onEvent|block": "开启**触动** %this|%event",
+  "sensors.TouchSensor.pauseUntil|block": "暂停直到**触动** %this|%event",
+  "sensors.TouchSensor.wasPressed|block": "**触动** %this|被按压",
+  "sensors.touch1|block": "1",
+  "sensors.touch2|block": "2",
+  "sensors.touch3|block": "3",
+  "sensors.touch4|block": "4",
+  "{id:category}Sensors": "传感器",
+  "{id:group}Touch Sensor": "触动传感器"
+}

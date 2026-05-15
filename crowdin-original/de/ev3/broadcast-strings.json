@@ -1,0 +1,7 @@
+{
+  "broadcast.onMessageReceived|block": "wenn %id=msg_enum_shim|empfangen",
+  "broadcast.sendMessageAndPause|block": "sende %id=msg_enum_shim| und warte",
+  "broadcast.sendMessage|block": "sende %id=msg_enum_shim",
+  "broadcast|block": "übertragen",
+  "{id:category}Broadcast": "Übertragung"
+}
