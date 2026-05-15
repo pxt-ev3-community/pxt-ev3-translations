@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-    - 'download_translations.sh'
+      - 'download_translations.sh'
 
 jobs:
   update-translations:
