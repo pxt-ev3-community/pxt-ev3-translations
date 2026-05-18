@@ -15,6 +15,7 @@
   "storage.Storage.exists": "Тест или проверка, что файл существует.",
   "storage.Storage.exists|param|filename": "имя файла для добавления данных, например: \"data.txt\"",
   "storage.Storage.limit": "Размер файла, который будет находиться под пределом.",
+  "storage.Storage.limit|param|filename": "имя файла для удаления, например: \"data.txt\"",
   "storage.Storage.limit|param|size": "максимальная длина",
   "storage.Storage.overwrite": "Перезаписать файл с строкой.",
   "storage.Storage.overwriteWithBuffer": "Перезаписать файл в буфер.",
