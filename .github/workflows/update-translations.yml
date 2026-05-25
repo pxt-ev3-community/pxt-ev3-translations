@@ -2,7 +2,7 @@ name: Update Translations
 
 on:
   schedule:
-    - cron: '23 5 1 * *'
+    - cron: '23 5 * * 1'
   workflow_dispatch:
   push:
     branches:
