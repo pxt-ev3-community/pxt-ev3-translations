@@ -1990,5 +1990,8 @@
   "{id:var}text list": "{id:var}liste de textes",
   "{id:var}value": "{id:var}valeur",
   "{id:while}do": "{id:while}faire",
-  "🎉 All set! Your project is launching in VS Code. If it doesn't open soon, just click the button below!": "🎉 C'est prêt! Votre projet est lancé dans VS Code. S'il ne s'ouvre pas bientôt, cliquez simplement sur le bouton ci-dessous!"
+  "🎉 All set! Your project is launching in VS Code. If it doesn't open soon, just click the button below!": "🎉 C'est prêt! Votre projet est lancé dans VS Code. S'il ne s'ouvre pas bientôt, cliquez simplement sur le bouton ci-dessous!",
+  "Icon": "Icône",
+  "Open Comment": "Ouvrir le commentaire",
+  "heading": "orientation"
 }

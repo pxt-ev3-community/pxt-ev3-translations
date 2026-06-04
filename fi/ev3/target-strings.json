@@ -41,5 +41,20 @@
   "Troubleshoot": "Vianetsintä",
   "Use the miniUSB port on the top of the EV3 Brick": "Käytä EV3-laitteen yläosan miniUSB-liitintä",
   "You must have version 1.10E or above of the firmware": "Tarvitset 1,10E tai uudemman laiteohjelmiston",
-  "You will be prompted to select a serial port.": "Selain pyytää sinua valitsemaan sarjaportin."
+  "You will be prompted to select a serial port.": "Selain pyytää sinua valitsemaan sarjaportin.",
+  "FLL / City Shaper": "FLL / Kaupunginrakentaja",
+  "Maker": "Tekijä",
+  "The EV3 library": "EV3-kirjasto",
+  "The base library": "Peruskirjasto",
+  "The core library": "Peruskirjasto",
+  "The music library": "Musiikkikirjasto",
+  "The screen library": "Näyttökirjasto",
+  "Touch Sensor Tutorials": "Kosketusanturin oppaat",
+  "Touch Sensor support": "Kosketusanturin tuki",
+  "Try again": "Yritä uudelleen",
+  "Tutorial Videos": "Opasvideot",
+  "USB Pen-drive support and flash storage - beta": "USB-muistille tallennus - beta",
+  "Ultrasonic Sensor Tutorials": "Ultraäänianturin oppaat",
+  "Ultrasonic Sensor support": "Ultraäänianturin tuki",
+  "error on brick ({0})": "laitevirhe ({0})"
 }
