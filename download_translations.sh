@@ -55,18 +55,12 @@ do
         jq . tmp.json > tmp_new.json
         cp tmp_new.json crowdin-original/$lang/$file
 
-        # Do three-way merge with jq.
-        # Update local .json file only if tmp_new differs from tmp_old,
-        # i.e. only when there has been a change on crowdin.
-        jq -n '
-          reduce (inputs | paths(scalars)) as $path (
-            input;
-            if (([inputs][0] | getpath($path)) != ([inputs][1] | getpath($path)))
-            then setpath($path; [inputs][1] | getpath($path))
-            else .
-            end
-          )
-        ' $lang/$file tmp_old.json tmp_new.json > tmp_updated.json
+        # Find any changes
+        jq -s '.[0] as $old | .[1] | to_entries
+         | map(select(.value != $old[.key])) | from_entries' tmp_old.json tmp_new.json > tmp_changes.json
+
+        # Apply changes to old file
+        jq -s '.[0] * .[1]' $lang/$file tmp_changes.json > tmp_updated.json
 
         # Mangle leading/trailing spaces because pxt seems to strip them otherwise.
         jq 'walk(if type == "string" then sub("^ "; "\u200D ") | sub(" $"; " \u200D") else . end)' tmp_updated.json > $lang/$file
