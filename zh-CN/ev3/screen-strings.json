@@ -1,4 +1,12 @@
 {
+  "brick.PrintStyle.BlackOnWhite|block": "白底黑字",
+  "brick.PrintStyle.WhiteOnBlack|block": "黑底白字",
+  "brick.FontSize.FontSmall|block": "小",
+  "brick.FontSize.FontMedium|block": "中",
+  "brick.FontSize.FontLarge|block": "大",
+  "brick.printNumber|block": "显示数字 $value|行 $line||列 $column|颜色 $printStyle|大小 $fontSize",
+  "brick.printString|block": "显示文本 $text|行 $line||列 $column|颜色 $printStyle|大小 $fontSize",
+  "brick.printValue|block": "显示值 $name|= $value|行 $line||列 $column|颜色 $printStyle|大小 $fontSize",
   "brick.clearScreen|block": "清除屏幕",
   "brick.showImage|block": "显示图像%image=screen_image_picker",
   "brick.showNumber|block": "显示第 %line 行的数字%name|",

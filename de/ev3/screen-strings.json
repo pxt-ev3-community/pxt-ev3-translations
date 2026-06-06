@@ -1,4 +1,12 @@
 {
+  "brick.PrintStyle.BlackOnWhite|block": "Schwarz auf Weiß",
+  "brick.PrintStyle.WhiteOnBlack|block": "Weiß auf Schwarz",
+  "brick.FontSize.FontSmall|block": "klein",
+  "brick.FontSize.FontMedium|block": "mittel",
+  "brick.FontSize.FontLarge|block": "groß",
+  "brick.printNumber|block": "zeige Zahl $value|Zeile $line||Spalte $column|Farbe $printStyle|Größe $fontSize",
+  "brick.printString|block": "zeige Text $text|Zeile $line||Spalte $column|Farbe $printStyle|Größe $fontSize",
+  "brick.printValue|block": "zeige Wert $name|= $value|Zeile $line||Spalte $column|Farbe $printStyle|Größe $fontSize",
   "brick.clearScreen|block": "Display löschen",
   "brick.showImage|block": "zeige Bild %image=screen_image_picker an",
   "brick.showNumber|block": "zeige Zahl %name|auf Zeile %linean",
