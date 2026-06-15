@@ -1654,5 +1654,6 @@
   "{id:var}list": "配列",
   "{id:var}text list": "文字列の配列",
   "{id:var}value": "値",
-  "{id:while}do": "{id:empty}"
+  "{id:while}do": "{id:empty}",
+  "melody": "メロディ"
 }

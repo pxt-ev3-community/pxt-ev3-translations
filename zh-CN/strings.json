@@ -1345,5 +1345,6 @@
   "{id:var}text list": "{id:var}text list",
   "{id:var}value": "{id:var}值",
   "{id:while}do": "{id:while}执行",
-  "heading": "方位角"
+  "heading": "方位角",
+  "melody": "旋律"
 }
