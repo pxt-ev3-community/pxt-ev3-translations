@@ -2484,5 +2484,12 @@
   "{0}, start": "{0}, начало",
   "Add a comment": "Добавить комментарий",
   "Search Results": "Результаты поиска",
-  "grid dropdown": "выпадающий список в виде сетки"
+  "grid dropdown": "выпадающий список в виде сетки",
+  "Context menu": "Контекстное меню",
+  "Function reference used as a statement; did you mean to call it with '()'?": "Ссылка на функцию, используемая в качестве оператора; вы имели в виду вызвать её с помощью '()'?",
+  "Ignore": "Игнорировать",
+  "Ignore this warning": "Проигнорировать это предупреждение",
+  "Repository visibility": "Видимость репозитория",
+  "Version History Timeline": "Хронология версии",
+  "Versions from {0}": "Версии от {0}"
 }

@@ -2433,5 +2433,9 @@
   "{id:block role}statement": "{id:block role}-Anweisung",
   "{id:keyboard symbol}Command": "{id:keyboard symbol}Eingabetaste",
   "{id:keyboard symbol}Escape": "{id:keyboard symbol}Escape",
-  "{id:keyboard symbol}Option": "{id:keyboard symbol}Optionstaste"
+  "{id:keyboard symbol}Option": "{id:keyboard symbol}Optionstaste",
+  "Context menu": "Kontextmenü",
+  "Function reference used as a statement; did you mean to call it with '()'?": "Funktionsreferenz, die als Anweisung verwendet wird; wolltest du sie mit '()' aufrufen?",
+  "Ignore": "Ablehnen",
+  "Ignore this warning": "Diese Warnung ignorieren"
 }

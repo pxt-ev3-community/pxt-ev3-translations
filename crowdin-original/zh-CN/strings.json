@@ -730,7 +730,6 @@
   "Repository description": "仓库描述",
   "Repository name": "仓库名称",
   "Repository names must be less than 64 characters and cannot include spaces or special characters.": "仓库名称必须少于 64 个字符，且不得包含空格或特殊字符。",
-  "Repository visibility setting": "仓库可见性设置",
   "Reset": "重置",
   "Resolve conflict": "消除冲突",
   "Resolve conflicts": "消除冲突",

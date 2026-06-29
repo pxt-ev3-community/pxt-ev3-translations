@@ -945,7 +945,6 @@
   "Repository description": "リポジトリの説明",
   "Repository name": "リポジトリ名",
   "Repository names must be less than 64 characters and cannot include spaces or special characters.": "リポジトリ名は 64 文字未満で、空白文字や特殊文字を含めることはできません。",
-  "Repository visibility setting": "リポジトリの表示設定",
   "Represents the negative outcome of a logical expression": "論理式の負の結果を表します。",
   "Represents the positive outcome of a logical expression": "論理式の正の結果を表します",
   "Reset": "リセット",
