@@ -2437,5 +2437,7 @@
   "Context menu": "Kontextmenü",
   "Function reference used as a statement; did you mean to call it with '()'?": "Funktionsreferenz, die als Anweisung verwendet wird; wolltest du sie mit '()' aufrufen?",
   "Ignore": "Ablehnen",
-  "Ignore this warning": "Diese Warnung ignorieren"
+  "Ignore this warning": "Diese Warnung ignorieren",
+  "toggle": "toggle",
+  "workspace": "Arbeitsbereich"
 }

@@ -2491,5 +2491,10 @@
   "Ignore this warning": "Проигнорировать это предупреждение",
   "Repository visibility": "Видимость репозитория",
   "Version History Timeline": "Хронология версии",
-  "Versions from {0}": "Версии от {0}"
+  "Versions from {0}": "Версии от {0}",
+  "%1 stacks of blocks": "%1 стек блоков",
+  "1 stack of blocks": "1 стек блоков",
+  "Commit Message": "Описание коммита",
+  "toggle": "переключить",
+  "workspace": "Рабочая область"
 }
