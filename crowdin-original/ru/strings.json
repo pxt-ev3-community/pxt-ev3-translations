@@ -704,6 +704,7 @@
   "Insert block": "Вставить блок",
   "Inserts a value at the beginning of an Array": "Вставляет значение в начало массива",
   "Inserts a value into the Array at the given index": "Вставляет значение в массив по заданному индексу",
+  "Installed": "Установлено",
   "Installing update...": "Установка обновления...",
   "Instance type symbol '{0}' is missing pyInstanceType": "Символ типа экземпляра '{0}' отсутствует в pyInstanceType",
   "Instructions on how to open video in picture-in-picture mode": "Инструкции по открытию видео в режиме картинка в картинке",

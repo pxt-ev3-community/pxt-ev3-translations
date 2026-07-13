@@ -2496,5 +2496,6 @@
   "1 stack of blocks": "1 стек блоков",
   "Commit Message": "Описание коммита",
   "toggle": "переключить",
-  "workspace": "Рабочая область"
+  "workspace": "Рабочая область",
+  "Installed": "Установлено"
 }
