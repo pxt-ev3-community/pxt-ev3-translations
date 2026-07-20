@@ -9,7 +9,7 @@
   "brick.printValue|block": "показать значение $name|= $value|в строке $line||столбце $column|со стилем $printStyle",
   "brick.showImage|block": "вывести изображение %image=screen_image_picker",
   "brick.showNumber|block": "показать число %name|на линии %line",
-  "brick.showPorts|block": "показать что в портах",
+  "brick.showPorts|block": "показать состояние портов",
   "brick.showString|block": "показать строку %text|на линии %line",
   "brick.showValue|block": "показать значение %name|= %text|на линии %line",
   "brick|block": "модуль",

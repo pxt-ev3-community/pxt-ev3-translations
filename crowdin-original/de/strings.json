@@ -690,6 +690,7 @@
   "Import URL...": "Importiere URL...",
   "Import a project": "Ein Projekt importieren",
   "Import extension": "Erweiterungen importieren",
+  "Import extension from file": "Erweiterung aus einer Datei importieren",
   "Import or drag it into the editor to reload it.": "Importieren oder in den Editor ziehen, um neu zu laden.",
   "Import zip file?": "Zip-Datei importieren?",
   "Importing to older editor version only supported in web browsers": "Das Importieren in die alte Version des Editors wird nur in Webbrowsern unterstützt",

@@ -2462,5 +2462,6 @@
   "checkbox": "Checkbox",
   "dropdown": "Dropdown",
   "grid dropdown": "Raster Dropdown",
-  "has %1 branches": "hat %1 Branches"
+  "has %1 branches": "hat %1 Branches",
+  "Import extension from file": "Erweiterung aus einer Datei importieren"
 }

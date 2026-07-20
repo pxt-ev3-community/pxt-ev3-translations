@@ -238,7 +238,7 @@
   "Comic moving {1} file to {0}": "Комикс перемещает файл {1} в {0}",
   "Command": "Команда",
   "Commit & create release to update Pages.": "Отправить и создать версию для обновления Страниц.",
-  "Commit and push changes": "Сохраните и отправьте изменения",
+  "Commit and push changes": "Сохранить и отправить изменения",
   "Commit compiled javascript when creating a release": "Фиксация скомпилированного javascript при создании релиза",
   "Commit conflict": "Конфликт записи изменений",
   "Commit conflict in {0}": "Конфликт записи изменений в {0}",
@@ -2497,5 +2497,6 @@
   "Commit Message": "Описание коммита",
   "toggle": "переключить",
   "workspace": "Рабочая область",
-  "Installed": "Установлено"
+  "Installed": "Установлено",
+  "Import extension from file": "Импортировать расширение из файла"
 }
