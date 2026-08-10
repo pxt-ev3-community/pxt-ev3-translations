@@ -514,7 +514,7 @@
   "Flip vertical": "Отразить по вертикали",
   "Food": "Еда",
   "Forest": "Лес",
-  "Fork repository": "Создать форк (развилку) репозитория",
+  "Fork repository": "Форк репозитория",
   "Fork your own copy of {0} to your account.": "Сделайте форк (копию) {0} на свой аккаунт.",
   "Forking creates a copy of {0} under your account. You can submit your changes back via a pull request.": "Ответвление создает копию {0} под вашим аккаунтом. Вы можете подтвердить изменения через запрос на слияние.",
   "Format Code": "Форматировать код",
@@ -1618,7 +1618,7 @@
   "View All": "Посмотреть все",
   "View Privacy Statement": "Просмотреть заявление о конфиденциальности",
   "View all projects": "Просмотреть все проекты",
-  "View commits": "Просмотр коммитов (изменений)",
+  "View commits": "Просмотр коммитов",
   "View latest row...": "Просмотреть последнюю строку...",
   "View project assets": "Ресурсы проекта",
   "View simulator keyboard shortcuts": "Посмотреть клавиши быстрого доступа эмулятора",
@@ -2498,5 +2498,9 @@
   "toggle": "переключить",
   "workspace": "Рабочая область",
   "Installed": "Установлено",
-  "Import extension from file": "Импортировать расширение из файла"
+  "Import extension from file": "Импортировать расширение из файла",
+  "Something went wrong while trying to create this asset.": "Что-то пошло не так при попытке создать этот ассет.",
+  "Something went wrong while trying to delete this asset.": "Что-то пошло не так при попытке удалить этот ассет.",
+  "Something went wrong while trying to duplicate this asset.": "Что-то пошло не так при попытке дублирования этого ассета.",
+  "Something went wrong while trying to edit this asset.": "Что-то пошло не так при попытке изменения этого ассета."
 }

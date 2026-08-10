@@ -2463,5 +2463,9 @@
   "dropdown": "Dropdown",
   "grid dropdown": "Raster Dropdown",
   "has %1 branches": "hat %1 Branches",
-  "Import extension from file": "Erweiterung aus einer Datei importieren"
+  "Import extension from file": "Erweiterung aus einer Datei importieren",
+  "Something went wrong while trying to create this asset.": "Beim Erstellen dieses Assets ist ein Fehler aufgetreten.",
+  "Something went wrong while trying to delete this asset.": "Beim Versuch, dieses Asset zu löschen, ist ein Fehler aufgetreten.",
+  "Something went wrong while trying to duplicate this asset.": "Beim Versuch, dieses Asset zu duplizieren, ist etwas schiefgelaufen.",
+  "Something went wrong while trying to edit this asset.": "Beim Versuch, dieses Asset zu bearbeiten, ist etwas schiefgelaufen."
 }
