@@ -2467,5 +2467,14 @@
   "Something went wrong while trying to create this asset.": "Beim Erstellen dieses Assets ist ein Fehler aufgetreten.",
   "Something went wrong while trying to delete this asset.": "Beim Versuch, dieses Asset zu löschen, ist ein Fehler aufgetreten.",
   "Something went wrong while trying to duplicate this asset.": "Beim Versuch, dieses Asset zu duplizieren, ist etwas schiefgelaufen.",
-  "Something went wrong while trying to edit this asset.": "Beim Versuch, dieses Asset zu bearbeiten, ist etwas schiefgelaufen."
+  "Something went wrong while trying to edit this asset.": "Beim Versuch, dieses Asset zu bearbeiten, ist etwas schiefgelaufen.",
+  "12/8": "12/8",
+  "2/4": "2/4",
+  "3/4": "3/4",
+  "3/8": "3/8",
+  "4/4": "4/4",
+  "6/8": "6/8",
+  "Octave Warning": "Oktave Warnung",
+  "Snap:": "Snap:",
+  "The copied notes are outside the current track's octave range. If you paste, it will change the octave range of this track.": "Die kopierten Noten liegen außerhalb des Oktavbereichs der aktuellen Spur. Wenn Sie sie einfügen, ändert sich der Oktavbereich dieser Spur."
 }

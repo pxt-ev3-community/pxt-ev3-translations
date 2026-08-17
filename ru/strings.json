@@ -2502,5 +2502,8 @@
   "Something went wrong while trying to create this asset.": "Что-то пошло не так при попытке создать этот ассет.",
   "Something went wrong while trying to delete this asset.": "Что-то пошло не так при попытке удалить этот ассет.",
   "Something went wrong while trying to duplicate this asset.": "Что-то пошло не так при попытке дублирования этого ассета.",
-  "Something went wrong while trying to edit this asset.": "Что-то пошло не так при попытке изменения этого ассета."
+  "Something went wrong while trying to edit this asset.": "Что-то пошло не так при попытке изменения этого ассета.",
+  "Octave Warning": "Предупреждение об октаве",
+  "Snap:": "Щелчки:",
+  "The copied notes are outside the current track's octave range. If you paste, it will change the octave range of this track.": "Скопированные ноты выходят за пределы октавного диапазона текущей дорожки. При вставке диапазон октав этой дорожки изменится."
 }
