@@ -1285,7 +1285,7 @@
   "Select either '{0}' or '{1}' scope, depending which repos you want to edit from here": "Entweder die Berechtigung '{0}' oder '{1}' wählen, je nachdem welches Repository du bearbeiten möchtest",
   "Select project version from {0} at {1}": "Projektversion von {0} bei {1} auswählen",
   "Select shared version from {0} at {1}": "Geteilte Version von {0} bei {1} auswählen",
-  "Select the device in the pairing dialog": "Wähle das Gerät im Pairing-Dialog",
+  "Select the device in the pairing dialog": "Wähle den @boardname@ im Pairing-Dialog",
   "Select the {0} device and click Connect.": "Wähle deinen {0} und klicke auf Verbinden.",
   "Select your {0} and press \"Connect\".": "Wähle deinen {0} aus und drücke \"Verbinden\".",
   "Sending abuse report...": "Bericht über Missbrauch wird gesendet...",
