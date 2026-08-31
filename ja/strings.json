@@ -1656,7 +1656,7 @@
   "{id:var}value": "値",
   "{id:while}do": "{id:empty}",
   "melody": "メロディ",
-  "Hue": "色彩",
+  "Hue": "色相",
   "Icon": "アイコン",
   "LED off": "LED オフ",
   "LED on": "LED オン",
@@ -1675,5 +1675,6 @@
   "notes": "ノート",
   "tile": "タイル",
   "toggle": "切り替え",
-  "unknown": "不明"
+  "unknown": "不明",
+  "LED": "LED"
 }
