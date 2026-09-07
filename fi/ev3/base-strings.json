@@ -73,5 +73,6 @@
   "{id:category}Text": "Teksti",
   "{id:group}Modify": "Muokkaa",
   "{id:group}Operations": "Toiminnot",
-  "{id:group}Read": "Lue"
+  "{id:group}Read": "Lue",
+  "{id:category}Object": "Objekti"
 }

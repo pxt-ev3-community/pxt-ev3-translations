@@ -131,6 +131,7 @@
   "Break out of the current loop or switch": "現在のループまたはswitch文から抜け出す",
   "Buildings": "建物",
   "Burger": "バーガー",
+  "Buttons": "ボタン",
   "Buy": "買う",
   "C++ file {0} is missing in extension {1}.": "拡張機能「{1}」にはC++のファイル「{0}」が必要ですが、見あたりません。",
   "Call Stack": "コール・スタック",
