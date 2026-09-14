@@ -2558,5 +2558,17 @@
   "Theme type": "Тип темы",
   "Use account theme": "Используйте тему оформления аккаунта",
   "{0} color": "{0} цвет",
-  "{0} hex color": "{0} шестнадцатеричный цвет"
+  "{0} hex color": "{0} шестнадцатеричный цвет",
+  "Are you sure you want to reset the editor and simulator themes to their defaults? This will remove your editor-wide theme customizations. Themes set directly on projects will not be changed. This action cannot be undone.": "Вы уверены, что хотите сбросить темы редактора и симулятора до значений по умолчанию? Это удалит ваши настройки тем для всего редактора. Темы, установленные непосредственно в проектах, останутся без изменений. Это действие необратимо.",
+  "Asset Name…": "Название ассета...",
+  "Change Asset Name": "Изменить имя ассета",
+  "More Options": "Больше опций",
+  "Octave Range…": "Диапазон октав...",
+  "Reset all themes?": "Сбросить все темы?",
+  "Resetting...": "Сброс...",
+  "Snap…": "Привязка…",
+  "Time Signature…": "Размер такта…",
+  "Unable to reset themes. Please try again.": "Не удалось сбросить темы. Пожалуйста, попробуйте еще раз.",
+  "Velocity Editor": "Редактор скорости",
+  "boom kick": "бум кик"
 }
