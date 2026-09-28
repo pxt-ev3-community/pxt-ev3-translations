@@ -2190,7 +2190,6 @@
   "on start %1 %2": "при начале %1 %2",
   "on start event": "при начале события",
   "only even space supported": "поддерживается только четное пространство",
-  "only numbers, null, true and false supported as default arguments": "только числа, null, true и false поддерживаются в качестве аргументов по умолчанию",
   "only variable declarations are permitted in for loop initializers": "только объявления переменных разрешены в инициализаторах цикла for",
   "only variable declarations are permitted in for of loop initializers": "только объявления переменных разрешены в инициализаторах цикла for",
   "open [@HOMEURL@](@HOMEURL@)": "открыть [@HOMEURL@](@HOMEURL@)",

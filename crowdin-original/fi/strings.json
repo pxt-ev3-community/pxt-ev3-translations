@@ -1985,7 +1985,6 @@
   "on start %1 %2": "käynnistettäessä %1 %2",
   "on start event": "käynnistettäessä",
   "only even space supported": "tilavarauksen koon tulee olla parillinen luku",
-  "only numbers, null, true and false supported as default arguments": "oletusarvoissa tuettuja ovat vain numerot, null, true ja false",
   "only variable declarations are permitted in for loop initializers": "for-silmukan alustuslausekkeessa voi ainoastaan alustaa muuttujan",
   "only variable declarations are permitted in for of loop initializers": "for of -silmukan alustuslausekkeessa voi ainoastaan alustaa muuttujan",
   "open [@HOMEURL@](@HOMEURL@)": "avaa [@HOMEURL@](@HOMEURL@)",
