@@ -2239,5 +2239,7 @@
   "{id:note}E": "{id:note}E",
   "{id:note}F": "{id:note}F",
   "{id:note}G": "{id:note}G",
-  "🎉 All set! Your project is launching in VS Code. If it doesn't open soon, just click the button below!": "🎉 Kaikki valmista! Projektisi aukeaa VS Codeen. Jos se ei aukea itsestään, paina allaolevaa nappia!"
+  "🎉 All set! Your project is launching in VS Code. If it doesn't open soon, just click the button below!": "🎉 Kaikki valmista! Projektisi aukeaa VS Codeen. Jos se ei aukea itsestään, paina allaolevaa nappia!",
+  "Music": "Musiikki",
+  "OK": "OK"
 }

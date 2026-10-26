@@ -1346,5 +1346,7 @@
   "{id:var}value": "{id:var}值",
   "{id:while}do": "{id:while}执行",
   "heading": "方位角",
-  "melody": "旋律"
+  "melody": "旋律",
+  "Music": "音乐",
+  "OK": "确定"
 }

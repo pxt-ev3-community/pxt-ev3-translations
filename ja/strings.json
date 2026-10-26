@@ -1854,5 +1854,12 @@
   "{id:keyboard symbol}Space": "{id:keyboard symbol}スペース",
   "{id:keyboard symbol}Tab": "{id:keyboard symbol}Tab",
   "{id:keyboard symbol}unnamed": "{id:keyboard symbol}無名",
-  "{id:keyboard symbol}≣ Menu": "{id:keyboard symbol}≣ メニュー"
+  "{id:keyboard symbol}≣ Menu": "{id:keyboard symbol}≣ メニュー",
+  "Beginner": "初級",
+  "Intermediate": "中級",
+  "Music": "音楽",
+  "Notes": "追加情報",
+  "OK": "OK",
+  "Skillmaps": "スキルマップ",
+  "Videos": "ビデオ"
 }

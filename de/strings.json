@@ -2478,5 +2478,22 @@
   "Snap:": "Snap:",
   "The copied notes are outside the current track's octave range. If you paste, it will change the octave range of this track.": "Die kopierten Noten liegen außerhalb des Oktavbereichs der aktuellen Spur. Wenn Sie sie einfügen, ändert sich der Oktavbereich dieser Spur.",
   "Buttons": "Knöpfe",
-  "Default": "Standard"
+  "Default": "Standard",
+  "+ 1 other function": "+ 1 andere Funktion",
+  "+ {0} other functions": "+ {0} andere Funktion",
+  "30 minutes": "30 Minuten",
+  "A different snippet already uses this ID. Neither copy was overwritten.": "Ein anderes Snippet verwendet diese ID bereits. Keine Kopie wurde überschrieben.",
+  "A whiteboard with this name already exists.": "Ein Whiteboard mit diesem Namen existiert bereits.",
+  "Add": "Hinzufügen",
+  "Add anyway": "Trotzdem hinzufügen",
+  "Add extensions and snippet": "Erweiterungen und Snippet hinzufügen",
+  "Add required extensions?": "Benötigte Erweiterungen hinzufügen?",
+  "Beginner": "Anfänger",
+  "Duration": "Dauer",
+  "Intermediate": "Mittleres Niveau",
+  "Music": "Musik",
+  "OK": "OK",
+  "Resources": "Ressourcen",
+  "Retry": "Erneut versuchen",
+  "Step": "Schritt"
 }
