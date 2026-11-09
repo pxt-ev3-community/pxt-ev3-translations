@@ -1606,6 +1606,7 @@
   "This repository can be added as an **extension** in MakeCode.": "Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.",
   "This repository looks empty.": "Dieses Repository sieht leer aus.",
   "This repository was not found. It might have been deleted or you may not have rights to access it.": "Dieses Repository wurde nicht gefunden. Es wurde möglicherweise gelöscht oder Du hast keine Zugriffsrechte.",
+  "This snippet is too large. Save fewer blocks.": "Dieses Snippet ist zu groß. Speichere weniger Blöcke.",
   "This tile is used in your game. Remove all blocks using the tile before deleting.": "Diese Kachel wird in deinem Spiel verwendet. Entferne alle Blöcke, die die Kachel verwenden, bevor du sie löschst.",
   "This will delete all your current code blocks. Any custom images and tiles can still be found in the gallery under \"My Assets\".": "Dies löscht alle deine aktuellen Code-Blöcke. Alle benutzerdefinierten Bilder und Kacheln können immer noch in der Galerie unter \"Meine Assets\" gefunden werden.",
   "This will share the code of your game publicly. Is that okay?": "Dies wird den Code deines Spiels öffentlich teilen. Ist das okay?",

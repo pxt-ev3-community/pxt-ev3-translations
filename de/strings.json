@@ -2495,5 +2495,6 @@
   "OK": "OK",
   "Resources": "Ressourcen",
   "Retry": "Erneut versuchen",
-  "Step": "Schritt"
+  "Step": "Schritt",
+  "This snippet is too large. Save fewer blocks.": "Dieses Snippet ist zu groß. Speichere weniger Blöcke."
 }
